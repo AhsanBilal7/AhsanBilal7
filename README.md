@@ -1,4 +1,5 @@
 # Hi there, I'm Ahsan Bilal 👋
+Graduate Student at the University of Oklahoma, under the supervision of [Dr Dean Hougen](https://www.cs.ou.edu/~hougen/resume.html)
 
 ## About Me
 
@@ -10,7 +11,7 @@
 
 # Ahsan Bilal 👨‍💻
 
-📧 abilal.bee20seecs@seecs.edu.pk | 🌐 [GitHub](https://github.com/AhsanBilal7) | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/AhsanBilal7/) | 🔗 [Website](https://ahsan-bilal.netlify.app/)
+📧 abilal.bee20seecs@seecs.edu.pk | 🌐 [GitHub](https://github.com/AhsanBilal7) | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/AhsanBilal7/) | 🔗 [Website](https://ahsanbilal7.github.io/)
 
 ## Education 🎓
 
