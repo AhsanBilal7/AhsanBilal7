@@ -20,4 +20,5 @@ git commit -m "Switch profile README design"
 
 - All GitHub stats/streak/activity-graph images reference `username=AhsanBilal7` — update if the handle changes.
 - Contact links, CV, and Google Scholar / ORCID / DBLP / Semantic Scholar IDs are pulled from [ahsanbilal7.github.io](https://ahsanbilal7.github.io/); update both places together if any of these change.
-- Selected publications are a curated subset (7 of 22) chosen for venue prestige + recency; the full list is linked via Google Scholar in each design rather than duplicated inline.
+- Publications (title, authors + their personal-site/Scholar links, venue, status, arXiv PDF) are sourced verbatim from the publications data on ahsanbilal7.github.io. 16 of 20+ papers are shown grouped by research area (LLM Reasoning/Agentic AI/RL vs. Wireless/Signal/Generative ML); the remaining 4 early-career/under-review items sit in a collapsed "Additional work" section. Full live list is linked via Google Scholar in each design.
+- All three designs' GitHub Stats/Streak/Top-Langs/Activity-Graph images use a `<picture>` element with `prefers-color-scheme` sources so they render correctly in both GitHub's light and dark viewer themes.

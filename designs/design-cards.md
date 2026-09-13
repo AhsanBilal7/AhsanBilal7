@@ -55,7 +55,7 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 | 🎓 Degree | Ph.D. CS (M.S. en route) |
 | 🏫 University | Oklahoma, USA |
 | 🧪 Lab | REAL Lab + Stanford SAIL |
-| 📝 Publications | 22 |
+| 📝 Publications | 20+ |
 | 🏅 Fellowship | Gallogly 2025 |
 
 </td>
@@ -104,27 +104,54 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 - TA, *CS-1313: Programming for Non-Majors in C* — OU
 - *"AI in Healthcare"* — Norman Regional Hospital
 
-**Network:** Stanford Statistics · Glasgow · NUST-SEECS
+**Network:** Stanford Statistics · Glasgow · NUST-SEECS · **Google DeepMind** · **Meta AI** <sub>(co-authored, TMLR'26)</sub>
 
 </td>
 </tr>
 </table>
 
 ## 📚 Selected Publications
-<p><sub>Full list (22 papers, incl. NeurIPS/EMNLP/AAAI submissions) → <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ">Google Scholar ↗</a></sub></p>
+<p><sub>16 of 20+ papers shown below. Complete, live-updated list → <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ">Google Scholar ↗</a></sub></p>
 
 <details open>
-<summary><strong>Show selected papers</strong></summary><br/>
+<summary><strong>LLM Reasoning, Agentic AI &amp; RL (7)</strong></summary><br/>
 
-| Title | Venue |
+| Title &amp; Authors | Venue |
 |---|:---:|
-| What If We Allocate Test-Time Compute Adaptively? | ![](https://img.shields.io/badge/ICML-2026-5E81AC?style=flat-square) |
-| Neural Gaussian Radio Fields for Channel Estimation | ![](https://img.shields.io/badge/KDD-2026-88C0D0?style=flat-square) |
-| S³: Stratified Scaling Search for Test-Time in Diffusion LMs | ![](https://img.shields.io/badge/COLM-2026-A3BE8C?style=flat-square) |
-| RAG with Multi-Modal LLMs for Wireless — 🏆 Best Paper | ![](https://img.shields.io/badge/ICC-2025-D08770?style=flat-square) |
-| Information-Theoretic Discrete Poisson Diffusion Model | ![](https://img.shields.io/badge/NeurIPS-2025-B48EAD?style=flat-square) |
-| Continual Learning for Wireless Channel Prediction | ![](https://img.shields.io/badge/ICML-2025-5E81AC?style=flat-square) |
-| Distributed Source Coding for Correlated Speech | ![](https://img.shields.io/badge/AAAI-2025-EBCB8B?style=flat-square) |
+| **[What If We Allocate Test-Time Compute Adaptively?](https://arxiv.org/pdf/2602.01070)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), [A. Subhan](https://alisubhan5341.github.io/), [H. Rizwan](https://scholar.google.com/citations?user=yUCtuKQAAAAJ&hl=en), D.F. Hougen</sub> | ![](https://img.shields.io/badge/ICML-2026-5E81AC?style=flat-square) |
+| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/pdf/2511.12869)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [M. Umer](https://muhd-umer.github.io/), *w/ Google DeepMind &amp; Meta AI*</sub> | ![](https://img.shields.io/badge/TMLR-2026-5E81AC?style=flat-square) |
+| **[S³: Stratified Scaling Search for Test-Time in Diffusion LMs](https://arxiv.org/pdf/2604.06260)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), [E. Fox](https://emilybfox.su.domains/), D.F. Hougen</sub> | ![](https://img.shields.io/badge/COLM-2026-A3BE8C?style=flat-square)<br/><sub>review</sub> |
+| **[Continuous-Utility Direct Preference Optimization](https://arxiv.org/pdf/2602.00931)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/), [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/ICML-2026-5E81AC?style=flat-square)<br/><sub>review</sub> |
+| **[Pressure, What Pressure? Sycophancy Disentanglement](https://arxiv.org/pdf/2604.05279)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [M. Umer](https://muhd-umer.github.io/), [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-B48EAD?style=flat-square)<br/><sub>review</sub> |
+| **[General Preference Reinforcement Learning](https://arxiv.org/pdf/2605.18721)**<br/><sub>[M. Umer](https://muhd-umer.github.io/), [M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [A. Chaudhry](https://arslan-chaudhry.github.io/), [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-B48EAD?style=flat-square)<br/><sub>review</sub> |
+| **[Epistemic Uncertainty for Test-Time Discovery](https://arxiv.org/pdf/2605.11328)**<br/><sub>K. Riaz, [M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [M. Umer](https://muhd-umer.github.io/), [A. Subhan](https://alisubhan5341.github.io/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-B48EAD?style=flat-square)<br/><sub>review</sub> |
+
+</details>
+
+<details open>
+<summary><strong>Wireless, Signal &amp; Generative ML (9)</strong></summary><br/>
+
+| Title &amp; Authors | Venue |
+|---|:---:|
+| **[Neural Gaussian Radio Fields for Channel Estimation](https://arxiv.org/pdf/2508.11668)**<br/><sub>[M. Umer](https://muhd-umer.github.io/)\*, **A. Bilal**\*, [M.A. Mohsin](https://ahmd-mohsin.github.io/)\*, [J.M. Cioffi](https://cioffi-group.stanford.edu/) <sub>(\*equal)</sub></sub> | ![](https://img.shields.io/badge/KDD-2026-88C0D0?style=flat-square) |
+| **[Channel Prediction Under Distribution Shift](https://arxiv.org/pdf/2509.15192)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/ICASSP-2026-D08770?style=flat-square) |
+| **[Conditional Prior Non-Stationary Channel Estimation](https://arxiv.org/pdf/2509.15182)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/ICASSP-2026-D08770?style=flat-square) |
+| **[Transformer-Based Sparse CSI Estimation](https://arxiv.org/pdf/2511.01333)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en)</sub> | ![](https://img.shields.io/badge/ICC-2026-EBCB8B?style=flat-square) |
+| **[Continual Learning for Wireless Channel Prediction](https://arxiv.org/pdf/2501.17879)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/ICML-2025-5E81AC?style=flat-square)<br/><sub>wksp</sub> |
+| **[RAG with Multi-Modal LLMs for Wireless](https://arxiv.org/pdf/2503.07670)** — 🏆 Best Paper<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en)</sub> | ![](https://img.shields.io/badge/ICC-2025-D08770?style=flat-square)<br/><sub>wksp</sub> |
+| **[Hierarchical DRL for Spectrum Resource Optimization](https://arxiv.org/pdf/2501.09212)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), [H. Rizwan](https://scholar.google.com/citations?user=yUCtuKQAAAAJ&hl=en), [M. Umer](https://muhd-umer.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-EBCB8B?style=flat-square)<br/><sub>wksp</sub> |
+| **[Task-Aware Distributed Source Coding for Audio](https://arxiv.org/pdf/2501.17879)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), [M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-EBCB8B?style=flat-square)<br/><sub>wksp</sub> |
+| **[ITDPDM: Information-Theoretic Discrete Poisson Diffusion Model](https://arxiv.org/pdf/2505.05082)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A. Bilal**, [T. Weissman](https://web.stanford.edu/~tsachy/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2025-B48EAD?style=flat-square) |
+
+</details>
+
+<details>
+<summary><strong>Additional &amp; early-career work (4)</strong></summary><br/>
+
+- **[Meta-Thinking in LLMs via Multi-Agent RL: A Survey](https://arxiv.org/pdf/2504.14520)** — `IEEE TAI` (review) — **A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/)
+- **Abstract — LLM for Explainable AI** — `IEEE DSAA'24` (poster) — **A. Bilal**, [B. Lin](https://beiyulincs.github.io/)
+- **On Shadow Removal With Boosted Attention in a ViT** — `Springer ML` (review) — **A. Bilal**, [A. Salman](https://seecs.nust.edu.pk/faculty/ahmad-salman/), [K. Khurshid](https://namal.edu.pk/faculty/profile/150/dr-khawar-khurshid)
+- **Person ID using Gait — Fused Graph + 3D-CNN** — `ACM TAIS` (review) — **A. Bilal**, [A. Salman](https://seecs.nust.edu.pk/faculty/ahmad-salman/), [K. Khurshid](https://namal.edu.pk/faculty/profile/150/dr-khawar-khurshid)
 
 </details>
 
@@ -167,6 +194,16 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 </details>
 
 <details>
+<summary><strong>Statistics &amp; Theory</strong> <sub>(click to expand)</sub></summary><br/>
+
+![](https://img.shields.io/badge/-Statistical%20Learning%20Theory-3B4252?style=flat&logoColor=88C0D0)
+![](https://img.shields.io/badge/-Probabilistic%20Modelling-3B4252?style=flat&logoColor=A3BE8C)
+![](https://img.shields.io/badge/-Information%20Theory-3B4252?style=flat&logoColor=D08770)
+![](https://img.shields.io/badge/-Optimization-3B4252?style=flat&logoColor=5E81AC)
+
+</details>
+
+<details>
 <summary><strong>Infra, MLOps &amp; Tools</strong> <sub>(click to expand)</sub></summary><br/>
 
 ![Docker](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
@@ -188,15 +225,37 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 
 </details>
 
+<details>
+<summary><strong>Core Competencies</strong> <sub>(click to expand)</sub></summary><br/>
+
+![](https://img.shields.io/badge/-Signal%20Processing-3B4252?style=flat&logoColor=8FBCBB)
+![](https://img.shields.io/badge/-5G-3B4252?style=flat&logoColor=88C0D0)
+![](https://img.shields.io/badge/-Connectivity%20Technologies-3B4252?style=flat&logoColor=81A1C1)
+![](https://img.shields.io/badge/-Distributed%20AI%20Systems-3B4252?style=flat&logoColor=5E81AC)
+
+</details>
+
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&theme=nord&title_color=88C0D0&icon_color=88C0D0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=donut-vertical&hide_border=true&theme=nord&title_color=88C0D0" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&theme=nord&title_color=88C0D0&icon_color=88C0D0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5E81AC&icon_color=5E81AC&text_color=2E3440" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5E81AC&icon_color=5E81AC&text_color=2E3440" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=donut-vertical&hide_border=true&theme=nord&title_color=88C0D0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=donut-vertical&hide_border=true&bg_color=ffffff&title_color=5E81AC&text_color=2E3440" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=donut-vertical&hide_border=true&bg_color=ffffff&title_color=5E81AC&text_color=2E3440" alt="Top Languages" />
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&theme=nord&hide_border=true&custom_title=activity%20graph&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&theme=nord&hide_border=true&custom_title=activity%20graph&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&bg_color=ffffff&color=5E81AC&line=5E81AC&point=2E3440&hide_border=true&area=true&custom_title=activity%20graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&bg_color=ffffff&color=5E81AC&line=5E81AC&point=2E3440&hide_border=true&area=true&custom_title=activity%20graph" alt="Activity Graph" />
+</picture>
 </p>
 
 <p align="center">

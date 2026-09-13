@@ -51,7 +51,7 @@ class AhsanBilal:
         self.advisors = ["Dr. Dean Hougen (OU)", "Prof. John M. Cioffi (Stanford)", "Dr. Emily Fox (Stanford)"]
         self.background = "B.E. Electrical Engineering, NUST-SEECS (CGPA 3.66, Spec. GPA 4.0)"
         self.prior_role  = "ML Engineer @ Cowlar Design Studio (YC'21)"
-        self.publications = 22
+        self.publications = "20+"
         self.focus  = ["LLM reasoning", "test-time compute", "agentic AI", "RL", "wireless ML"]
 ```
 
@@ -75,22 +75,49 @@ class AhsanBilal:
 
 ```yaml
 peer_review:  [ICML, NeurIPS, ICASSP, PAKDD, TMLR, IEEE WCM, Springer MT&A, IEEE Access]
+cross_org:    "co-authored w/ researchers from Google DeepMind & Meta AI (TMLR'26)"
 teaching:     "TA — CS-1313 Programming for Non-Majors in C, University of Oklahoma"
 talks:        "AI in Healthcare — Norman Regional Hospital (w/ Dr. Lubna Mirza)"
-network:      [Stanford Statistics, University of Glasgow, NUST-SEECS]
+network:      [Stanford Statistics, University of Glasgow, NUST-SEECS, Google DeepMind, Meta AI]
 ```
 
-### `publications --selected` <sub>(full list: [Google Scholar ↗](https://scholar.google.com/citations?user=UxYCwTcAAAAJ), 22 papers)</sub>
+### `publications --selected` <sub>(16 of 20+ shown; full list → [Google Scholar ↗](https://scholar.google.com/citations?user=UxYCwTcAAAAJ))</sub>
 
-| # | title | venue |
+**// llm reasoning, agentic ai & rl**
+
+| title | authors | venue |
 |---|---|:---:|
-| 1 | `What If We Allocate Test-Time Compute Adaptively?` | ![ICML](https://img.shields.io/badge/ICML-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 2 | `Neural Gaussian Radio Fields for Channel Estimation` | ![KDD](https://img.shields.io/badge/KDD-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 3 | `S³: Stratified Scaling Search for Test-Time in Diffusion LMs` | ![COLM](https://img.shields.io/badge/COLM-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 4 | `RAG with Multi-Modal LLMs for Wireless` — 🏆 best paper | ![ICC](https://img.shields.io/badge/ICC-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 5 | `Information-Theoretic Discrete Poisson Diffusion Model` | ![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 6 | `Continual Learning for Wireless Channel Prediction` | ![ICML](https://img.shields.io/badge/ICML-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
-| 7 | `Distributed Source Coding for Correlated Speech` | ![AAAI](https://img.shields.io/badge/AAAI-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Adaptive Test-Time Compute Allocation?`](https://arxiv.org/pdf/2602.01070) | **A.Bilal**, [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), [A.Subhan](https://alisubhan5341.github.io/), [H.Rizwan](https://scholar.google.com/citations?user=yUCtuKQAAAAJ&hl=en), D.F.Hougen | ![ICML](https://img.shields.io/badge/ICML-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Fundamental Limits of LLMs at Scale`](https://arxiv.org/pdf/2511.12869) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal**, [M.Umer](https://muhd-umer.github.io/), *w/ DeepMind & Meta* | ![TMLR](https://img.shields.io/badge/TMLR-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`S³: Stratified Scaling Search, Diffusion LMs`](https://arxiv.org/pdf/2604.06260) | **A.Bilal**, [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), [E.Fox](https://emilybfox.su.domains/), D.F.Hougen | ![COLM](https://img.shields.io/badge/COLM-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `review` |
+| [`Continuous-Utility Direct Preference Optimization`](https://arxiv.org/pdf/2602.00931) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), **A.Bilal**, [J.M.Cioffi](https://cioffi-group.stanford.edu/), [E.Fox](https://emilybfox.su.domains/) | ![ICML](https://img.shields.io/badge/ICML-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `review` |
+| [`Sycophancy Disentanglement via Reward Decomposition`](https://arxiv.org/pdf/2604.05279) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal**, [M.Umer](https://muhd-umer.github.io/), [E.Fox](https://emilybfox.su.domains/) | ![NeurIPS](https://img.shields.io/badge/NeurIPS-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `review` |
+| [`General Preference Reinforcement Learning`](https://arxiv.org/pdf/2605.18721) | [M.Umer](https://muhd-umer.github.io/), [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal**, [A.Chaudhry](https://arslan-chaudhry.github.io/), [E.Fox](https://emilybfox.su.domains/) | ![NeurIPS](https://img.shields.io/badge/NeurIPS-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `review` |
+| [`Epistemic Uncertainty for Test-Time Discovery`](https://arxiv.org/pdf/2605.11328) | K.Riaz, [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal**, [M.Umer](https://muhd-umer.github.io/), [A.Subhan](https://alisubhan5341.github.io/) | ![NeurIPS](https://img.shields.io/badge/NeurIPS-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `review` |
+
+**// wireless, signal & generative ml**
+
+| title | authors | venue |
+|---|---|:---:|
+| [`Neural Gaussian Radio Fields for Channel Estimation`](https://arxiv.org/pdf/2508.11668) | [M.Umer](https://muhd-umer.github.io/)\*, **A.Bilal**\*, [M.A.Mohsin](https://ahmd-mohsin.github.io/)\*, [J.M.Cioffi](https://cioffi-group.stanford.edu/) | ![KDD](https://img.shields.io/badge/KDD-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Channel Prediction Under Distribution Shift`](https://arxiv.org/pdf/2509.15192) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), **A.Bilal**, [J.M.Cioffi](https://cioffi-group.stanford.edu/) | ![ICASSP](https://img.shields.io/badge/ICASSP-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Conditional Prior Non-Stationary Channel Estimation`](https://arxiv.org/pdf/2509.15182) | **A.Bilal**, [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), [J.M.Cioffi](https://cioffi-group.stanford.edu/) | ![ICASSP](https://img.shields.io/badge/ICASSP-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Transformer-Based Sparse CSI Estimation`](https://arxiv.org/pdf/2511.01333) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), **A.Bilal**, [S.Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en) | ![ICC](https://img.shields.io/badge/ICC-2026-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+| [`Continual Learning for Wireless Channel Prediction`](https://arxiv.org/pdf/2501.17879) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/), **A.Bilal**, [J.M.Cioffi](https://cioffi-group.stanford.edu/) | ![ICML](https://img.shields.io/badge/ICML-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `wksp` |
+| [`RAG with Multi-Modal LLMs for Wireless`](https://arxiv.org/pdf/2503.07670) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal**, [S.Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en) | ![ICC](https://img.shields.io/badge/ICC-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) 🏆 |
+| [`Hierarchical DRL for Spectrum Resource Optimization`](https://arxiv.org/pdf/2501.09212) | [M.A.Mohsin](https://ahmd-mohsin.github.io/), [H.Rizwan](https://scholar.google.com/citations?user=yUCtuKQAAAAJ&hl=en), [M.Umer](https://muhd-umer.github.io/), **A.Bilal** | ![AAAI](https://img.shields.io/badge/AAAI-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `wksp` |
+| [`Task-Aware Distributed Source Coding for Audio`](https://arxiv.org/pdf/2501.17879) | [S.Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), [M.A.Mohsin](https://ahmd-mohsin.github.io/), **A.Bilal** | ![AAAI](https://img.shields.io/badge/AAAI-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) `wksp` |
+| [`ITDPDM: Info-Theoretic Discrete Poisson Diffusion`](https://arxiv.org/pdf/2505.05082) | [S.Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A.Bilal**, [T.Weissman](https://web.stanford.edu/~tsachy/) | ![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-0D1117?style=flat-square&labelColor=161B22&color=58A6FF) |
+
+<details>
+<summary><code>+4 more — early-career / under-review</code></summary><br/>
+
+- [`Meta-Thinking in LLMs via Multi-Agent RL: A Survey`](https://arxiv.org/pdf/2504.14520) — **A.Bilal**, [M.A.Mohsin](https://ahmd-mohsin.github.io/), [M.Umer](https://muhd-umer.github.io/) — `IEEE TAI` review
+- `Abstract — LLM for Explainable AI` — **A.Bilal**, [B.Lin](https://beiyulincs.github.io/) — `IEEE DSAA'24` poster
+- `On Shadow Removal With Boosted Attention in a ViT` — **A.Bilal**, [A.Salman](https://seecs.nust.edu.pk/faculty/ahmad-salman/), [K.Khurshid](https://namal.edu.pk/faculty/profile/150/dr-khawar-khurshid) — `Springer ML` review
+- `Person ID using Gait — Fused Graph + 3D-CNN` — **A.Bilal**, [A.Salman](https://seecs.nust.edu.pk/faculty/ahmad-salman/), [K.Khurshid](https://namal.edu.pk/faculty/profile/150/dr-khawar-khurshid) — `ACM TAIS` review
+
+</details>
 
 ### `honors --list`
 
@@ -129,6 +156,16 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS]
 </details>
 
 <details>
+<summary><strong>statistics / theory</strong></summary><br/>
+
+![](https://img.shields.io/badge/-Statistical%20Learning%20Theory-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-Probabilistic%20Modelling-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-Information%20Theory-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-Optimization-0D1117?style=flat-square&color=161B22)
+
+</details>
+
+<details>
 <summary><strong>infra / mlops</strong></summary><br/>
 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
@@ -136,6 +173,7 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS]
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
 ![AWS](https://img.shields.io/badge/-AWS%20EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=58A6FF)
 ![NGINX](https://img.shields.io/badge/-NGINX-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=58A6FF)
 
 </details>
 
@@ -146,22 +184,45 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=58A6FF)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=58A6FF)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=flat-square&logo=adobexd&logoColor=58A6FF)
+
+</details>
+
+<details>
+<summary><strong>core competencies</strong></summary><br/>
+
+![](https://img.shields.io/badge/-Signal%20Processing-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-5G-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-Connectivity%20Technologies-0D1117?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/-Distributed%20AI%20Systems-0D1117?style=flat-square&color=161B22)
 
 </details>
 
 ### `stats --github`
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=compact&hide_border=true&theme=dark&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=24292f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanBilal7&show_icons=true&hide_border=true&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=24292f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanBilal7&layout=compact&hide_border=true&theme=dark&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
+</picture>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AhsanBilal7&hide_border=true&theme=dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0D1117" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AhsanBilal7&hide_border=true&background=ffffff&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f" />
+  <img src="https://streak-stats.demolab.com?user=AhsanBilal7&hide_border=true&theme=dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0D1117" alt="GitHub Streak" />
+</picture>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&bg_color=0D1117&color=58A6FF&line=58A6FF&point=c9d1d9&hide_border=true&area=true&custom_title=contribution%20activity" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&hide_border=true&area=true&custom_title=contribution%20activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanBilal7&bg_color=0D1117&color=58A6FF&line=58A6FF&point=c9d1d9&hide_border=true&area=true&custom_title=contribution%20activity" alt="Contribution Activity" />
+</picture>
 </p>
 
 <div align="center">
