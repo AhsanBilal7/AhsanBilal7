@@ -1,0 +1,58 @@
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated test-time reasoning tree search: candidate paths expand, a verifier selects the best trajectory">
+  <style>
+    .card{ fill:#F8FAFC; stroke:#E2E8F0; }
+    .title{ fill:#1E3A8A; font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+    .lbl{ fill:#475569; font-family:'Segoe UI',Helvetica,Arial,sans-serif; }
+    .edge{ stroke:#CBD5E1; stroke-width:1.6; }
+    .node{ fill:#BFDBFE; stroke:#2563EB; stroke-width:1.4; }
+    .winEdge{ stroke:#16A34A; stroke-width:2.4; }
+    .winNode{ fill:#86EFAC; stroke:#16A34A; stroke-width:1.8; }
+    @media (prefers-color-scheme: dark){
+      .card{ fill:#0D1117; stroke:#30363D; }
+      .title{ fill:#60A5FA; }
+      .lbl{ fill:#8B949E; }
+      .edge{ stroke:#30363D; }
+      .node{ fill:#1F4E8C; stroke:#60A5FA; }
+      .winEdge{ stroke:#3FB950; }
+      .winNode{ fill:#134E2E; stroke:#3FB950; }
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="418" height="218" rx="12"/>
+  <text class="title" x="20" y="26" font-size="13">Test-Time Search — Verifier-Guided Reasoning</text>
+
+  <!-- edges: root -> level1 -->
+  <g class="edge" fill="none">
+    <path d="M210,55 L110,95"/>
+    <path d="M210,55 L210,95"/>
+    <path d="M210,55 L310,95"/>
+  </g>
+  <!-- edges: level1 -> level2 -->
+  <g class="edge" fill="none">
+    <path d="M110,105 L70,150"/>
+    <path d="M110,105 L150,150"/>
+    <path class="winEdge" d="M210,105 L190,150"/>
+    <path d="M210,105 L230,150"/>
+    <path d="M310,105 L270,150"/>
+    <path d="M310,105 L350,150"/>
+  </g>
+
+  <circle class="node" cx="210" cy="50" r="9"/>
+  <circle class="node" cx="110" cy="100" r="8"/>
+  <circle class="node" cx="210" cy="100" r="8"/>
+  <circle class="node" cx="310" cy="100" r="8"/>
+  <circle class="node" cx="70"  cy="155" r="7"/>
+  <circle class="node" cx="150" cy="155" r="7"/>
+  <circle class="winNode" cx="190" cy="155" r="8"/>
+  <circle class="node" cx="230" cy="155" r="7"/>
+  <circle class="node" cx="270" cy="155" r="7"/>
+  <circle class="node" cx="350" cy="155" r="7"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.9;1" dur="5s" repeatCount="indefinite"/>
+    <circle class="winNode" cx="190" cy="155" r="12"/>
+    <text class="lbl" x="196" y="185" font-size="10">verifier picks best path ✓</text>
+  </g>
+
+  <text class="lbl" x="20" y="200" font-size="10">root prompt → candidate trajectories → PRM-scored selection</text>
+</svg>

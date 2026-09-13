@@ -1,18 +1,30 @@
 <!--
   Ahsan Bilal — GitHub Profile README
-  Design 3 / 3 — "Cards" (Nord palette, card/grid layout, collapsible sections)
+  Design 3 / 6 — "Cards" (Nord palette, card/grid layout, collapsible sections)
   To use: copy this file's content over the root README.md
+  Note: never pass a raw "&" into desc=/lines=/text= params on capsule-render or
+  readme-typing-svg — unescaped in the returned SVG, it corrupts the XML. Use "·" instead.
 -->
-
-<p align="center">
-  <img src="https://ahsanbilal7.github.io/assets/images/ahsan_bilal.png" width="120" style="border-radius:50%;border:3px solid #5E81AC;" alt="Ahsan Bilal" />
-</p>
 
 <h1 align="center">Ahsan Bilal</h1>
 <p align="center"><sub><strong>Ph.D. Researcher</strong> · University of Oklahoma (REAL Lab) &nbsp;|&nbsp; <strong>Research Collaborator</strong> · Stanford AI Lab</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=800&color=5E81AC&center=true&vCenter=true&width=650&lines=LLM+Reasoning+%26+Test-Time+Compute;Agentic+%2F+Self-Evolving+Multi-Agent+Systems;Reinforcement+Learning+for+Decision+Systems;Generative+Models+for+Wireless+%26+Signal+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=800&color=5E81AC&center=true&vCenter=true&width=650&lines=LLM+Reasoning+%C2%B7+Test-Time+Compute;Agentic+%2F+Self-Evolving+Multi-Agent+Systems;Reinforcement+Learning+for+Decision+Systems;Generative+Models+for+Wireless+%C2%B7+Signal+ML" />
+</p>
+
+<p align="center">
+<sub><strong>Research Keywords</strong></sub><br/>
+<img src="https://img.shields.io/badge/-LLM%20Reasoning-3B4252?style=flat-square&color=5E81AC" />
+<img src="https://img.shields.io/badge/-Test--Time%20Compute-3B4252?style=flat-square&color=88C0D0" />
+<img src="https://img.shields.io/badge/-Agentic%20AI-3B4252?style=flat-square&color=A3BE8C" />
+<img src="https://img.shields.io/badge/-Reinforcement%20Learning-3B4252?style=flat-square&color=B48EAD" />
+<img src="https://img.shields.io/badge/-Diffusion%20Models-3B4252?style=flat-square&color=D08770" />
+<img src="https://img.shields.io/badge/-Wireless%20ML-3B4252?style=flat-square&color=8FBCBB" />
+</p>
+<p align="center">
+<sub><strong>Publishes In</strong></sub><br/>
+<img src="https://img.shields.io/badge/-ICML%20%C2%B7%20NeurIPS%20%C2%B7%20COLM%20%C2%B7%20KDD%20%C2%B7%20TMLR%20%C2%B7%20AAAI%20%C2%B7%20ICASSP%20%C2%B7%20ICC-3B4252?style=flat-square&color=4C566A" />
 </p>
 
 <p align="center">

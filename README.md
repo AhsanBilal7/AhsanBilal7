@@ -1,19 +1,42 @@
 <!--
   Ahsan Bilal — GitHub Profile README
-  Design 1 / 3 — "Signal" (minimal research-professional, blue accent)
+  Design 1 / 6 — "Signal" (minimal research-professional, blue accent) — LIVE
   Alternate designs live in /designs — see designs/README.md for the index.
   Publication data sourced from ahsanbilal7.github.io (verified arXiv links, Sep 2026).
+  Note: generated SVG badges must never receive a raw "&" in text-bearing params
+  (desc=/lines=/text=) — some services don't XML-escape it, corrupting the SVG. Use "·" instead.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=190&section=header&text=Ahsan%20Bilal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=PhD%20Researcher%20%C2%B7%20Deep%20Learning%20%26%20Agentic%20AI&descAlignY=58&descSize=18&descColor=e6ecff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=header" />
 
 <div align="center">
 
-<img src="https://ahsanbilal7.github.io/assets/images/ahsan_bilal.png" width="140" style="border-radius:50%;" alt="Ahsan Bilal" />
+# Ahsan Bilal
 
+**Ph.D. Researcher, Computer Science** — University of Oklahoma (REAL Lab) &nbsp;·&nbsp; **Research Collaborator** — Stanford AI Lab (SAIL)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Deep+Learning+Optimization+%C2%B7+LLM+Reasoning;Agentic+%C2%B7+Adaptive+AI+Systems;Reinforcement+Learning+for+Test-Time+Compute)](https://ahsanbilal7.github.io/)
+
+**Research Keywords**
 <br/>
+![](https://img.shields.io/badge/-LLM%20Reasoning-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Test--Time%20Compute-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Agentic%20AI-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Reinforcement%20Learning-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Diffusion%20Models-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Preference%20Optimization-2563EB?style=flat-square)
+![](https://img.shields.io/badge/-Wireless%20%2F%205G%20ML-2563EB?style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Deep+Learning+Optimization+%26+LLM+Reasoning;Agentic+%26+Adaptive+AI+Systems;Reinforcement+Learning+for+Test-Time+Compute;Ph.D.+Researcher+%40+University+of+Oklahoma)](https://ahsanbilal7.github.io/)
+**Publishes In**
+<br/>
+![](https://img.shields.io/badge/-ICML-475569?style=flat-square)
+![](https://img.shields.io/badge/-NeurIPS-475569?style=flat-square)
+![](https://img.shields.io/badge/-COLM-475569?style=flat-square)
+![](https://img.shields.io/badge/-KDD-475569?style=flat-square)
+![](https://img.shields.io/badge/-TMLR-475569?style=flat-square)
+![](https://img.shields.io/badge/-AAAI-475569?style=flat-square)
+![](https://img.shields.io/badge/-ICASSP-475569?style=flat-square)
+![](https://img.shields.io/badge/-ICC-475569?style=flat-square)
 
 <p>
 <a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>

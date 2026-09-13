@@ -1,0 +1,62 @@
+<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated diffusion denoising: a noisy grid progressively settles into a clean structured pattern, looping from t=T to t=0">
+  <style>
+    .card{ fill:#F8FAFC; stroke:#E2E8F0; }
+    .title{ fill:#1E3A8A; font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+    .lbl{ fill:#475569; font-family:'Segoe UI',Helvetica,Arial,sans-serif; }
+    .arrow{ stroke:#94A3B8; stroke-width:1.5; }
+    @media (prefers-color-scheme: dark){
+      .card{ fill:#0D1117; stroke:#30363D; }
+      .title{ fill:#60A5FA; }
+      .lbl{ fill:#8B949E; }
+      .arrow{ stroke:#484F58; }
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="418" height="198" rx="12"/>
+  <text class="title" x="20" y="26" font-size="13">Diffusion Denoising — Structured Generative Modeling</text>
+
+  <text class="lbl" x="150" y="52" font-size="10">t = T (noise)</text>
+  <text class="lbl" x="310" y="52" font-size="10">t = 0 (signal)</text>
+  <path class="arrow" d="M175,90 L305,90" marker-end="url(#ah)"/>
+  <defs>
+    <marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" class="arrow" fill="#94A3B8"/>
+    </marker>
+  </defs>
+
+  <g transform="translate(155,60)">
+    <rect x="0" y="0" width="22" height="22" fill="#94A3B8"><animate attributeName="fill" values="#94A3B8;#94A3B8;#93C5FD;#93C5FD;#94A3B8" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="0" width="22" height="22" fill="#F87171"><animate attributeName="fill" values="#F87171;#F87171;#60A5FA;#60A5FA;#F87171" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.15s" repeatCount="indefinite"/></rect>
+    <rect x="44" y="0" width="22" height="22" fill="#FBBF24"><animate attributeName="fill" values="#FBBF24;#FBBF24;#60A5FA;#60A5FA;#FBBF24" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="66" y="0" width="22" height="22" fill="#34D399"><animate attributeName="fill" values="#34D399;#34D399;#93C5FD;#93C5FD;#34D399" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.45s" repeatCount="indefinite"/></rect>
+
+    <rect x="0" y="22" width="22" height="22" fill="#A78BFA"><animate attributeName="fill" values="#A78BFA;#A78BFA;#60A5FA;#60A5FA;#A78BFA" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.15s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="22" width="22" height="22" fill="#F472B6"><animate attributeName="fill" values="#F472B6;#F472B6;#2563EB;#2563EB;#F472B6" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="44" y="22" width="22" height="22" fill="#94A3B8"><animate attributeName="fill" values="#94A3B8;#94A3B8;#2563EB;#2563EB;#94A3B8" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.45s" repeatCount="indefinite"/></rect>
+    <rect x="66" y="22" width="22" height="22" fill="#F87171"><animate attributeName="fill" values="#F87171;#F87171;#60A5FA;#60A5FA;#F87171" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.6s" repeatCount="indefinite"/></rect>
+
+    <rect x="0" y="44" width="22" height="22" fill="#FBBF24"><animate attributeName="fill" values="#FBBF24;#FBBF24;#60A5FA;#60A5FA;#FBBF24" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="44" width="22" height="22" fill="#34D399"><animate attributeName="fill" values="#34D399;#34D399;#2563EB;#2563EB;#34D399" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.45s" repeatCount="indefinite"/></rect>
+    <rect x="44" y="44" width="22" height="22" fill="#A78BFA"><animate attributeName="fill" values="#A78BFA;#A78BFA;#2563EB;#2563EB;#A78BFA" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="66" y="44" width="22" height="22" fill="#F472B6"><animate attributeName="fill" values="#F472B6;#F472B6;#60A5FA;#60A5FA;#F472B6" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.75s" repeatCount="indefinite"/></rect>
+
+    <rect x="0" y="66" width="22" height="22" fill="#94A3B8"><animate attributeName="fill" values="#94A3B8;#94A3B8;#93C5FD;#93C5FD;#94A3B8" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.45s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="66" width="22" height="22" fill="#F87171"><animate attributeName="fill" values="#F87171;#F87171;#60A5FA;#60A5FA;#F87171" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="44" y="66" width="22" height="22" fill="#FBBF24"><animate attributeName="fill" values="#FBBF24;#FBBF24;#60A5FA;#60A5FA;#FBBF24" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.75s" repeatCount="indefinite"/></rect>
+    <rect x="66" y="66" width="22" height="22" fill="#34D399"><animate attributeName="fill" values="#34D399;#34D399;#93C5FD;#93C5FD;#34D399" keyTimes="0;0.35;0.55;0.85;1" dur="6s" begin="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <g transform="translate(300,60)">
+    <rect x="0" y="0" width="88" height="88" fill="none" stroke="#2563EB" stroke-opacity="0.25" rx="4"/>
+    <rect x="4"  y="4"  width="22" height="22" fill="#93C5FD"/><rect x="26" y="4"  width="22" height="22" fill="#60A5FA"/>
+    <rect x="48" y="4"  width="22" height="22" fill="#60A5FA"/><rect x="70" y="4"  width="14" height="22" fill="#93C5FD"/>
+    <rect x="4"  y="26" width="22" height="22" fill="#60A5FA"/><rect x="26" y="26" width="22" height="22" fill="#2563EB"/>
+    <rect x="48" y="26" width="22" height="22" fill="#2563EB"/><rect x="70" y="26" width="14" height="22" fill="#60A5FA"/>
+    <rect x="4"  y="48" width="22" height="22" fill="#60A5FA"/><rect x="26" y="48" width="22" height="22" fill="#2563EB"/>
+    <rect x="48" y="48" width="22" height="22" fill="#2563EB"/><rect x="70" y="48" width="14" height="22" fill="#60A5FA"/>
+    <rect x="4"  y="70" width="22" height="14" fill="#93C5FD"/><rect x="26" y="70" width="22" height="14" fill="#60A5FA"/>
+    <rect x="48" y="70" width="22" height="14" fill="#60A5FA"/><rect x="70" y="70" width="14" height="14" fill="#93C5FD"/>
+  </g>
+
+  <text class="lbl" x="20" y="185" font-size="10">continuous-learning diffusion prior · accelerated sampling for non-stationary channel/signal estimation</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated reinforcement learning loop: agent takes actions, environment returns state and reward">
+  <style>
+    .card{ fill:#F8FAFC; stroke:#E2E8F0; }
+    .title{ fill:#1E3A8A; font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+    .lbl{ fill:#475569; font-family:'Segoe UI',Helvetica,Arial,sans-serif; }
+    .box{ fill:#EFF6FF; stroke:#2563EB; stroke-width:1.6; }
+    .boxTxt{ fill:#1E3A8A; font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+    .path{ stroke:#93C5FD; stroke-width:1.6; fill:none; }
+    .dotA{ fill:#2563EB; }
+    .dotB{ fill:#16A34A; }
+    @media (prefers-color-scheme: dark){
+      .card{ fill:#0D1117; stroke:#30363D; }
+      .title{ fill:#60A5FA; }
+      .lbl{ fill:#8B949E; }
+      .box{ fill:#111827; stroke:#60A5FA; }
+      .boxTxt{ fill:#93C5FD; }
+      .path{ stroke:#1F4E8C; }
+      .dotA{ fill:#60A5FA; }
+      .dotB{ fill:#3FB950; }
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="418" height="198" rx="12"/>
+  <text class="title" x="20" y="26" font-size="13">RL Loop — Agent ↔ Environment (Non-Stationary)</text>
+
+  <rect class="box" x="30"  y="80" width="110" height="55" rx="10"/>
+  <text class="boxTxt" x="55" y="113" font-size="13">Agent</text>
+
+  <rect class="box" x="280" y="80" width="110" height="55" rx="10"/>
+  <text class="boxTxt" x="288" y="113" font-size="13">Environment</text>
+
+  <path id="actionPath" class="path" d="M140,90 C210,55 250,55 280,90"/>
+  <path id="rewardPath" class="path" d="M280,125 C210,165 210,165 140,125"/>
+
+  <text class="lbl" x="185" y="55" font-size="10">action aₜ</text>
+  <text class="lbl" x="170" y="180" font-size="10">state sₜ₊₁, reward rₜ₊₁</text>
+
+  <circle class="dotA" r="5">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M140,90 C210,55 250,55 280,90"/>
+  </circle>
+  <circle class="dotB" r="5">
+    <animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M280,125 C210,165 210,165 140,125"/>
+  </circle>
+</svg>

@@ -1,0 +1,49 @@
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated gradient descent on a loss landscape, converging to the minimum">
+  <style>
+    .card{ fill:#F8FAFC; stroke:#E2E8F0; }
+    .curve{ stroke:#93C5FD; }
+    .axis{ stroke:#CBD5E1; }
+    .lbl{ fill:#475569; font-family:'Segoe UI',Helvetica,Arial,sans-serif; }
+    .title{ fill:#1E3A8A; font-family:'Segoe UI',Helvetica,Arial,sans-serif; font-weight:600; }
+    .step{ fill:#BFDBFE; }
+    .ball{ fill:#2563EB; }
+    @media (prefers-color-scheme: dark){
+      .card{ fill:#0D1117; stroke:#30363D; }
+      .curve{ stroke:#1F4E8C; }
+      .axis{ stroke:#30363D; }
+      .lbl{ fill:#8B949E; }
+      .title{ fill:#60A5FA; }
+      .step{ fill:#1F4E8C; }
+      .ball{ fill:#60A5FA; }
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="418" height="218" rx="12"/>
+  <text class="title" x="20" y="26" font-size="13">Gradient Descent — Loss Landscape</text>
+
+  <line class="axis" x1="30" y1="190" x2="400" y2="190" stroke-width="1.5"/>
+  <line class="axis" x1="30" y1="50" x2="30" y2="190" stroke-width="1.5"/>
+  <text class="lbl" x="345" y="205" font-size="10">steps</text>
+  <text class="lbl" x="8" y="55" font-size="10">loss</text>
+
+  <path class="curve" fill="none" stroke-width="3" stroke-linecap="round"
+        d="M40,178 L70,151 L100,127 L130,107 L160,90 L190,77 L210,70 L230,77 L260,90 L290,107 L320,127 L350,151 L380,178"/>
+
+  <g class="step">
+    <circle cx="40" cy="178" r="3"/><circle cx="70" cy="151" r="3"/><circle cx="100" cy="127" r="3"/>
+    <circle cx="130" cy="107" r="3"/><circle cx="160" cy="90" r="3"/><circle cx="190" cy="77" r="3"/>
+  </g>
+
+  <circle class="ball" r="7">
+    <animate attributeName="cx"
+      values="40;70;100;130;160;180;195;205;210;210;40"
+      keyTimes="0;0.09;0.18;0.27;0.36;0.45;0.54;0.63;0.72;0.9;1"
+      dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy"
+      values="178;151;127;107;90;80;74;71;70;70;178"
+      keyTimes="0;0.09;0.18;0.27;0.36;0.45;0.54;0.63;0.72;0.9;1"
+      dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text class="lbl" x="185" y="65" font-size="10">min loss ✓</text>
+</svg>

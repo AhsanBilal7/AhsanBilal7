@@ -1,18 +1,40 @@
 <!--
   Ahsan Bilal — GitHub Profile README
-  Design 2 / 3 — "Terminal" (developer/dark accent, monospace)
+  Design 2 / 6 — "Terminal" (developer/dark accent, monospace)
   To use: copy this file's content over the root README.md
+  Note: never pass a raw "&" into desc=/lines=/text= params on capsule-render or
+  readme-typing-svg — unescaped in the returned SVG, it corrupts the XML. Use "·" instead.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=190&section=header&text=%3E_%20ahsan_bilal&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=phd%20researcher%20%7C%7C%20deep%20learning%20%2B%20agentic%20ai&descAlignY=58&descSize=16&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header" />
 
 <div align="center">
 
-<img src="https://ahsanbilal7.github.io/assets/images/ahsan_bilal.png" width="130" style="border-radius:8px;border:2px solid #58A6FF;" alt="Ahsan Bilal" />
+# `> whoami`
 
-<br/><br/>
+**Ahsan Bilal** — Ph.D. Researcher, Computer Science, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford AI Lab (SAIL)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+whoami;Ph.D.+Researcher+%40+University+of+Oklahoma;%24+research+--interests;LLM+reasoning+%2F+test-time+compute+%2F+agentic+RL;%24+status;shipping+papers+%26+training+agents+%F0%9F%9A%80)](https://ahsanbilal7.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+research+--interests;LLM+reasoning+%2F+test-time+compute+%2F+agentic+RL;%24+status;shipping+papers+%C2%B7+training+agents+%F0%9F%9A%80)](https://ahsanbilal7.github.io/)
+
+`research.keywords`
+<br/>
+![](https://img.shields.io/badge/-LLM%20Reasoning-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+![](https://img.shields.io/badge/-Test--Time%20Compute-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+![](https://img.shields.io/badge/-Agentic%20AI-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+![](https://img.shields.io/badge/-Reinforcement%20Learning-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+![](https://img.shields.io/badge/-Diffusion%20Models-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+![](https://img.shields.io/badge/-Wireless%20ML-0D1117?style=flat-square&color=161B22&labelColor=161B22)
+
+`publishes.in`
+<br/>
+![](https://img.shields.io/badge/-ICML-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-NeurIPS-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-COLM-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-KDD-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-TMLR-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-AAAI-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-ICASSP-0D1117?style=flat-square&color=010409)
+![](https://img.shields.io/badge/-ICC-0D1117?style=flat-square&color=010409)
 
 </div>
 
