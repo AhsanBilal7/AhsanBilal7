@@ -138,21 +138,13 @@ Ph.D. CS, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford A
 ## 🧰 Toolbox
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL toolbox" />
-</picture>
+<img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web toolbox" />
-</picture>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design toolbox" />
-</picture>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>
+
 
 <p align="center"><sub><strong>ML Techniques:</strong> GRPO · LoRA · ZeRO · Preference Optimization · Test-Time Scaling · LLM Post-Training · Agentic Systems</sub></p>
 <p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Probabilistic Modelling · Information Theory · Optimization · MLflow · CUDA · Slurm · Cursor · Pandas/NumPy · Signal Processing · 5G · Connectivity Technologies · Distributed AI Systems · Classification · Algorithms</sub></p>
