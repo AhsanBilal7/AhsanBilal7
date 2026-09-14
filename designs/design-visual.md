@@ -162,20 +162,11 @@ LLM Reasoning &nbsp;·&nbsp; Test-Time Compute &nbsp;·&nbsp; Agentic AI &nbsp;�
 ## 🧰 Toolbox
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
-</picture>
+<img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
-</picture>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
-</picture>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>
 
 <p align="center"><sub><strong>ML Techniques:</strong> GRPO · LoRA · ZeRO · Preference Optimization · Test-Time Scaling · LLM Post-Training · Agentic Systems</sub></p>
