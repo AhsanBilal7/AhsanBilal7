@@ -20,27 +20,33 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=680&lines=%3E+LOADING+RESEARCH+PROFILE...;%3E+LLM+REASONING+%C2%B7+TEST-TIME+COMPUTE;%3E+AGENTIC+AI+%C2%B7+REINFORCEMENT+LEARNING;%3E+READY_)](https://ahsanbilal7.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=680&height=22&lines=%3E+LLM+REASONING+%C2%B7+TEST-TIME+COMPUTE;%3E+AGENTIC+AI+%C2%B7+REINFORCEMENT+LEARNING;%3E+READY_)](https://ahsanbilal7.github.io/)
 
-`RESEARCH_KEYWORDS.dat`
-<br/>
-![](https://img.shields.io/badge/-LLM_REASONING-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-TEST--TIME_COMPUTE-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-AGENTIC_AI-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-REINFORCEMENT_LEARNING-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-DIFFUSION_MODELS-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-WIRELESS_ML-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
+</div>
 
-`PUBLISHED_IN.log`
+<table width="100%">
+<tr>
+<td width="40%" valign="top">
+
+`WHOAMI.dat`<br/>
+PhD CS @ OU (REAL Lab) · SAIL Collaborator · Prior: Cowlar (YC'21) · B.E. EE, NUST-SEECS
+
+</td>
+<td width="60%" valign="top">
+
+`RESEARCH_KEYWORDS.dat`<br/>
+LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DIFFUSION_MODELS · WIRELESS_ML
 <br/>
-![](https://img.shields.io/badge/-ICML-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-NEURIPS-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-COLM-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-KDD-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-TMLR-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-AAAI-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-ICASSP-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
-![](https://img.shields.io/badge/-ICC-39FF14?style=flat-square&color=0B0F0C&labelColor=0B0F0C)
+`PUBLISHED_IN.log`<br/>
+ICML · NEURIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`$ now:` test_time_compute.run() `ICML'26` · diffusion_wireless.run() `KDD'26` · internet_of_agents.run() &nbsp;<sub>[→ current_work](#-current_work)</sub>
 
 <p>
 <a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0B0F0C" /></a>
@@ -151,31 +157,15 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 
 ## $ toolbox
 
-<p>
-<img src="https://img.shields.io/badge/-PYTHON-0B0F0C?style=flat-square&logo=python&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-C++-0B0F0C?style=flat-square&logo=cplusplus&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-JAVA-0B0F0C?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-MATLAB-0B0F0C?style=flat-square&logo=mathworks&logoColor=39FF14&labelColor=0B0F0C"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<img src="https://img.shields.io/badge/-PYTORCH-0B0F0C?style=flat-square&logo=pytorch&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-TENSORFLOW-0B0F0C?style=flat-square&logo=tensorflow&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-SCIKIT_LEARN-0B0F0C?style=flat-square&logo=scikitlearn&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-OPENCV-0B0F0C?style=flat-square&logo=opencv&logoColor=39FF14&labelColor=0B0F0C"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
-<img src="https://img.shields.io/badge/-DOCKER-0B0F0C?style=flat-square&logo=docker&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-MLFLOW-0B0F0C?style=flat-square&logo=mlflow&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-GIT-0B0F0C?style=flat-square&logo=git&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-AWS_EC2-0B0F0C?style=flat-square&logo=amazonec2&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-NGINX-0B0F0C?style=flat-square&logo=nginx&logoColor=39FF14&labelColor=0B0F0C"/>
-<br/>
-<img src="https://img.shields.io/badge/-REACT-0B0F0C?style=flat-square&logo=react&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-NEXT.JS-0B0F0C?style=flat-square&logo=nextdotjs&logoColor=39FF14&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-FIGMA-0B0F0C?style=flat-square&logo=figma&logoColor=39FF14&labelColor=0B0F0C"/>
-<br/>
-<img src="https://img.shields.io/badge/-SIGNAL_PROCESSING-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-5G-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C"/>
-<img src="https://img.shields.io/badge/-DISTRIBUTED_AI_SYSTEMS-0B0F0C?style=flat-square&color=0B0F0C&labelColor=0B0F0C"/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>
+
+`also:` STATISTICAL_LEARNING_THEORY · INFORMATION_THEORY · OPTIMIZATION · MLFLOW · SIGNAL_PROCESSING · 5G · DISTRIBUTED_AI_SYSTEMS
 
 ## $ github_stats
 

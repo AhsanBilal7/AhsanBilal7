@@ -7,13 +7,21 @@
 -->
 
 <h1 align="center">Ahsan Bilal</h1>
-<p align="center"><sub><strong>Ph.D. Researcher</strong> · University of Oklahoma (REAL Lab) &nbsp;|&nbsp; <strong>Research Collaborator</strong> · Stanford AI Lab</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=800&color=5E81AC&center=true&vCenter=true&width=650&lines=LLM+Reasoning+%C2%B7+Test-Time+Compute;Agentic+%2F+Self-Evolving+Multi-Agent+Systems;Reinforcement+Learning+for+Decision+Systems;Generative+Models+for+Wireless+%C2%B7+Signal+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3200&pause=800&color=5E81AC&center=true&vCenter=true&width=620&height=24&lines=LLM+Reasoning+%C2%B7+Test-Time+Compute;Agentic+%2F+Self-Evolving+Multi-Agent+Systems;Reinforcement+Learning+for+Decision+Systems" />
 </p>
 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
+
+<sub><strong>🧑‍🔬 Who I Am</strong></sub><br/>
+**Ph.D. Researcher** · University of Oklahoma (REAL Lab) &nbsp;|&nbsp; **Research Collaborator** · Stanford AI Lab. Advised by Dr. Hougen, Prof. Cioffi &amp; Dr. Fox. Prior: ML Engineer @ Cowlar (YC'21).
+
+</td>
+<td width="58%" valign="top">
+
 <sub><strong>Research Keywords</strong></sub><br/>
 <img src="https://img.shields.io/badge/-LLM%20Reasoning-3B4252?style=flat-square&color=5E81AC" />
 <img src="https://img.shields.io/badge/-Test--Time%20Compute-3B4252?style=flat-square&color=88C0D0" />
@@ -21,32 +29,36 @@
 <img src="https://img.shields.io/badge/-Reinforcement%20Learning-3B4252?style=flat-square&color=B48EAD" />
 <img src="https://img.shields.io/badge/-Diffusion%20Models-3B4252?style=flat-square&color=D08770" />
 <img src="https://img.shields.io/badge/-Wireless%20ML-3B4252?style=flat-square&color=8FBCBB" />
-</p>
-<p align="center">
+<br/>
 <sub><strong>Publishes In</strong></sub><br/>
 <img src="https://img.shields.io/badge/-ICML%20%C2%B7%20NeurIPS%20%C2%B7%20COLM%20%C2%B7%20KDD%20%C2%B7%20TMLR%20%C2%B7%20AAAI%20%C2%B7%20ICASSP%20%C2%B7%20ICC-3B4252?style=flat-square&color=4C566A" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+🔭 <strong>Now:</strong> test-time compute for LLM reasoning <code>ICML'26</code> · diffusion wireless estimation <code>KDD'26</code> · Internet-of-Agents platform &nbsp;<sub>(<a href="#-current-work">details ↓</a>)</sub>
 </p>
 
 <p align="center">
 <a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/-Email-3B4252?style=flat-square&logo=gmail&logoColor=D08770" /></a>
 <a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/-Website-3B4252?style=flat-square&logo=googlechrome&logoColor=88C0D0" /></a>
 <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-3B4252?style=flat-square&logo=googlescholar&logoColor=5E81AC" /></a>
-<a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534"><img src="https://img.shields.io/badge/-Semantic%20Scholar-3B4252?style=flat-square&logoColor=A3BE8C" /></a>
-<a href="https://dblp.org/pid/227/6464.html"><img src="https://img.shields.io/badge/-DBLP-3B4252?style=flat-square&logoColor=EBCB8B" /></a>
-<a href="https://orcid.org/0009-0002-7044-9316"><img src="https://img.shields.io/badge/-ORCID-3B4252?style=flat-square&logo=orcid&logoColor=A3BE8C" /></a>
 <a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/-LinkedIn-3B4252?style=flat-square&logo=linkedin&logoColor=5E81AC" /></a>
 <a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/-GitHub-3B4252?style=flat-square&logo=github&logoColor=ECEFF4" /></a>
-<a href="https://x.com/ahsan_bilal7"><img src="https://img.shields.io/badge/-X-3B4252?style=flat-square&logo=x&logoColor=ECEFF4" /></a>
-<a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/-Download%20CV-3B4252?style=flat-square&logo=readdotcv&logoColor=BF616A" /></a>
+<a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/-CV-3B4252?style=flat-square&logo=readdotcv&logoColor=BF616A" /></a>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=88C0D0&height=3&width=800" />
+<sub><a href="https://x.com/ahsan_bilal7">X</a> · <a href="https://orcid.org/0009-0002-7044-9316">ORCID</a> · <a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534">Semantic Scholar</a> · <a href="https://dblp.org/pid/227/6464.html">DBLP</a></sub>
 </p>
 
-<blockquote align="center">
-🔭 Optimization &amp; test-time compute for reasoning LLMs &nbsp;·&nbsp; agentic, self-evolving multi-agent systems &nbsp;·&nbsp; reinforcement learning for reasoning &amp; non-stationary decision systems &nbsp;·&nbsp; diffusion models for wireless/signal ML
-</blockquote>
+## 🧭 Research Focus
+
+- 🧠 **LLM Reasoning & Test-Time Compute** — verifier/PRM-guided search, scaling inference-time compute for autoregressive & diffusion LMs
+- 🤖 **Agentic & Adaptive AI** — self-evolving multi-agent systems, dynamic trust/reputation modelling
+- 🎯 **Reinforcement Learning** — reasoning & decision-making in non-stationary environments
+- 📡 **Applied Generative ML** — diffusion models for wireless/signal estimation
 
 ## 🧑‍🔬 Who I Am
 
@@ -181,71 +193,24 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 
 ## 🧰 My Toolbox
 
-<details open>
-<summary><strong>Languages &amp; Core</strong> <sub>(click to expand)</sub></summary><br/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
+</picture>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
-![C++](https://img.shields.io/badge/-C++-3B4252?style=flat&logo=cplusplus&logoColor=88C0D0)
-![C](https://img.shields.io/badge/-C-3B4252?style=flat&logo=c&logoColor=5E81AC)
-![Java](https://img.shields.io/badge/-Java-3B4252?style=flat&logo=openjdk&logoColor=D08770)
-![MATLAB](https://img.shields.io/badge/-MATLAB-3B4252?style=flat&logo=mathworks&logoColor=A3BE8C)
-
-</details>
-
-<details open>
-<summary><strong>AI &amp; Machine Learning</strong> <sub>(click to expand)</sub></summary><br/>
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-3B4252?style=flat&logo=pytorch&logoColor=BF616A)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-3B4252?style=flat&logo=tensorflow&logoColor=D08770)
-![MLflow](https://img.shields.io/badge/-MLflow-3B4252?style=flat&logo=mlflow&logoColor=BF616A)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-3B4252?style=flat&logo=scikit-learn&logoColor=88C0D0)
-![OpenCV](https://img.shields.io/badge/-OpenCV-3B4252?style=flat&logo=opencv&logoColor=D08770)
-![Pandas](https://img.shields.io/badge/-Pandas-3B4252?style=flat&logo=pandas&logoColor=B48EAD)
-![NumPy](https://img.shields.io/badge/-NumPy-3B4252?style=flat&logo=numpy&logoColor=8FBCBB)
-
-</details>
-
-<details>
-<summary><strong>Statistics &amp; Theory</strong> <sub>(click to expand)</sub></summary><br/>
-
-![](https://img.shields.io/badge/-Statistical%20Learning%20Theory-3B4252?style=flat&logoColor=88C0D0)
-![](https://img.shields.io/badge/-Probabilistic%20Modelling-3B4252?style=flat&logoColor=A3BE8C)
-![](https://img.shields.io/badge/-Information%20Theory-3B4252?style=flat&logoColor=D08770)
-![](https://img.shields.io/badge/-Optimization-3B4252?style=flat&logoColor=5E81AC)
-
-</details>
-
-<details>
-<summary><strong>Infra, MLOps &amp; Tools</strong> <sub>(click to expand)</sub></summary><br/>
-
-![Docker](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
-![Git](https://img.shields.io/badge/-Git-3B4252?style=flat&logo=git&logoColor=5E81AC)
-![AWS](https://img.shields.io/badge/-AWS%20EC2-3B4252?style=flat&logo=amazonec2&logoColor=D08770)
-![NGINX](https://img.shields.io/badge/-NGINX-3B4252?style=flat&logo=nginx&logoColor=A3BE8C)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
-
-</details>
-
-<details>
-<summary><strong>Web &amp; Design</strong> <sub>(click to expand)</sub></summary><br/>
-
-![React](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=BF616A)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=EBCB8B)
-![Next.js](https://img.shields.io/badge/-Next.js-3B4252?style=flat&logo=nextdotjs&logoColor=88C0D0)
-![Figma](https://img.shields.io/badge/-Figma-3B4252?style=flat&logo=figma&logoColor=D08770)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-3B4252?style=flat&logo=adobexd&logoColor=88C0D0)
-
-</details>
-
-<details>
-<summary><strong>Core Competencies</strong> <sub>(click to expand)</sub></summary><br/>
-
-![](https://img.shields.io/badge/-Signal%20Processing-3B4252?style=flat&logoColor=8FBCBB)
-![](https://img.shields.io/badge/-5G-3B4252?style=flat&logoColor=88C0D0)
-![](https://img.shields.io/badge/-Connectivity%20Technologies-3B4252?style=flat&logoColor=81A1C1)
-![](https://img.shields.io/badge/-Distributed%20AI%20Systems-3B4252?style=flat&logoColor=5E81AC)
-
-</details>
+<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Probabilistic Modelling · Information Theory · Optimization · MLflow · Pandas/NumPy · Signal Processing · 5G · Connectivity Technologies · Distributed AI Systems</sub></p>
 
 ## 📊 Stats
 

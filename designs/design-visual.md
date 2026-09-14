@@ -9,48 +9,49 @@
   readme-typing-svg — unescaped in the returned SVG, it corrupts the XML. Use "·" instead.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=110&section=header" />
 
 <div align="center">
 
 # Ahsan Bilal
 
-**Ph.D. Researcher, Computer Science** — University of Oklahoma (REAL Lab) &nbsp;·&nbsp; **Research Collaborator** — Stanford AI Lab (SAIL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=26&lines=Deep+Learning+Optimization+%C2%B7+LLM+Reasoning;Agentic+%C2%B7+Adaptive+AI+Systems;Reinforcement+Learning+for+Test-Time+Compute)](https://ahsanbilal7.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Deep+Learning+Optimization+%C2%B7+LLM+Reasoning;Agentic+%C2%B7+Adaptive+AI+Systems;Reinforcement+Learning+for+Test-Time+Compute)](https://ahsanbilal7.github.io/)
+</div>
 
-**Research Keywords**
+<table width="100%">
+<tr>
+<td width="44%" valign="top">
+
+**👋 Who I Am**<br/>
+Ph.D. CS, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford AI Lab (SAIL). Advised by [Dr. Hougen](https://www.cs.ou.edu/~hougen/resume.html), [Prof. Cioffi](https://cioffi-group.stanford.edu/) & [Dr. Fox](https://emilybfox.su.domains/). Prior: ML Engineer @ Cowlar (YC'21).
+
+</td>
+<td width="56%" valign="top">
+
+**🧭 Research Keywords**<br/>
+LLM Reasoning &nbsp;·&nbsp; Test-Time Compute &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; RL &nbsp;·&nbsp; Diffusion Models &nbsp;·&nbsp; Wireless ML
 <br/>
-![](https://img.shields.io/badge/-LLM%20Reasoning-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Test--Time%20Compute-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Agentic%20AI-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Reinforcement%20Learning-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Diffusion%20Models-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Wireless%20%2F%205G%20ML-7C3AED?style=flat-square)
+**📍 Publishes In**<br/>
+ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
 
-**Publishes In**
-<br/>
-![](https://img.shields.io/badge/-ICML-475569?style=flat-square)
-![](https://img.shields.io/badge/-NeurIPS-475569?style=flat-square)
-![](https://img.shields.io/badge/-COLM-475569?style=flat-square)
-![](https://img.shields.io/badge/-KDD-475569?style=flat-square)
-![](https://img.shields.io/badge/-TMLR-475569?style=flat-square)
-![](https://img.shields.io/badge/-AAAI-475569?style=flat-square)
-![](https://img.shields.io/badge/-ICASSP-475569?style=flat-square)
-![](https://img.shields.io/badge/-ICC-475569?style=flat-square)
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🔭 **Now:** Test-time compute for LLM reasoning `ICML'26` &nbsp;·&nbsp; Diffusion wireless estimation `KDD'26` &nbsp;·&nbsp; Internet-of-Agents platform &nbsp;·&nbsp; <sub>[full details ↓](#-current-work)</sub>
 
 <p>
-<a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://x.com/ahsan_bilal7"><img src="https://img.shields.io/badge/X-7C3AED?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
-<p>
-<a href="https://orcid.org/0009-0002-7044-9316"><img src="https://img.shields.io/badge/ORCID-0009--0002--7044--9316-7C3AED?style=flat-square&logo=orcid&logoColor=white" /></a>
-<a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/Download%20CV-7C3AED?style=flat-square&logo=readdotcv&logoColor=white" /></a>
-</p>
+<sub><a href="https://x.com/ahsan_bilal7">X</a> · <a href="https://orcid.org/0009-0002-7044-9316">ORCID</a></sub>
 
 <sub>
 <a href="#-research-focus">Research Focus</a> ·
@@ -64,11 +65,12 @@
 
 </div>
 
-<br/>
-
 ## 🧭 Research Focus
 
-> **Deep learning optimization & LLM reasoning** — test-time compute scaling, verifier/PRM-guided reasoning, preference optimization for autoregressive & diffusion language models · **Agentic & adaptive AI systems** — self-evolving multi-agent architectures · **Reinforcement learning for reasoning & decision systems** — non-stationary environments, with a parallel line applying diffusion/generative modeling to ML-driven wireless communication.
+- 🧠 **LLM Reasoning & Test-Time Compute** — verifier/PRM-guided search, scaling inference-time compute
+- 🤖 **Agentic & Adaptive AI** — self-evolving multi-agent architectures
+- 🎯 **Reinforcement Learning** — reasoning & decision-making in non-stationary environments
+- 📡 **Applied Generative ML** — diffusion models for wireless/signal estimation
 
 ## 🔬 Visualizing the Research
 
@@ -96,17 +98,6 @@
 </td>
 </tr>
 </table>
-
-## 👋 Who I Am
-
-**Ph.D. student in Computer Science, University of Oklahoma** (REAL Lab, advised by **[Dr. Dean Hougen](https://www.cs.ou.edu/~hougen/resume.html)**) and **Research Collaborator, Stanford AI Lab (SAIL)** with **[Prof. John M. Cioffi](https://cioffi-group.stanford.edu/)** and **[Dr. Emily Fox](https://emilybfox.su.domains/)**. B.E. Electrical Engineering, NUST-SEECS (Spec. GPA 4.0/4.0). Previously **ML Engineer at Cowlar Design Studio (YC '21)**.
-
-| | |
-|---|---|
-| 🎓 **Degree** | Ph.D. CS (M.S. en route) — CGPA 3.86/4.0 |
-| 🧪 **Labs** | REAL Lab (OU) · Stanford AI Lab (SAIL) |
-| 📝 **Publications** | 20+ across ICML, NeurIPS, COLM, KDD, TMLR, AAAI, ICASSP, ICC |
-| 🏅 **Fellowship** | Gallogly College of Engineering Graduate Fellow, 2025 |
 
 ## 🚧 Current Work
 
@@ -170,20 +161,24 @@
 
 ## 🧰 Toolbox
 
-![Python](https://img.shields.io/badge/-Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-7C3AED?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-7C3AED?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
+</picture>
 <br/>
-![](https://img.shields.io/badge/-Statistical%20Learning%20Theory-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Information%20Theory-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Signal%20Processing-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-5G-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/-Distributed%20AI%20Systems-7C3AED?style=flat-square)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
+</picture>
+</p>
+
+<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Information Theory · Optimization · MLflow · Signal Processing · 5G · Distributed AI Systems</sub></p>
 
 ## 📊 GitHub Stats
 

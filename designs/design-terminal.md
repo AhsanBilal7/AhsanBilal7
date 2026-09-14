@@ -6,62 +6,51 @@
   readme-typing-svg — unescaped in the returned SVG, it corrupts the XML. Use "·" instead.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header" />
 
 <div align="center">
 
 # `> whoami`
 
-**Ahsan Bilal** — Ph.D. Researcher, Computer Science, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford AI Lab (SAIL)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+research+--interests;LLM+reasoning+%2F+test-time+compute+%2F+agentic+RL;%24+status;shipping+papers+%C2%B7+training+agents+%F0%9F%9A%80)](https://ahsanbilal7.github.io/)
-
-`research.keywords`
-<br/>
-![](https://img.shields.io/badge/-LLM%20Reasoning-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-![](https://img.shields.io/badge/-Test--Time%20Compute-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-![](https://img.shields.io/badge/-Agentic%20AI-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-![](https://img.shields.io/badge/-Reinforcement%20Learning-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-![](https://img.shields.io/badge/-Diffusion%20Models-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-![](https://img.shields.io/badge/-Wireless%20ML-0D1117?style=flat-square&color=161B22&labelColor=161B22)
-
-`publishes.in`
-<br/>
-![](https://img.shields.io/badge/-ICML-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-NeurIPS-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-COLM-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-KDD-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-TMLR-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-AAAI-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-ICASSP-0D1117?style=flat-square&color=010409)
-![](https://img.shields.io/badge/-ICC-0D1117?style=flat-square&color=010409)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=680&height=24&lines=%24+research+--interests;LLM+reasoning+%2F+test-time+compute+%2F+agentic+RL;%24+status;shipping+papers+%C2%B7+training+agents+%F0%9F%9A%80)](https://ahsanbilal7.github.io/)
 
 </div>
 
-```
-$ cat contact.txt
-```
+<table width="100%">
+<tr>
+<td width="46%" valign="top">
 
-<p align="center">
-<a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-<a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-<a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=58A6FF" /></a>
-<a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="https://x.com/ahsan_bilal7"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
-</p>
-<p align="center">
-<a href="https://orcid.org/0009-0002-7044-9316"><img src="https://img.shields.io/badge/ORCID-0009--0002--7044--9316-0D1117?style=flat-square&logo=orcid&logoColor=58A6FF" /></a>
-<a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534"><img src="https://img.shields.io/badge/Semantic%20Scholar-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" /></a>
-<a href="https://dblp.org/pid/227/6464.html"><img src="https://img.shields.io/badge/DBLP-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" /></a>
+`whoami.txt`<br/>
+**Ahsan Bilal** — Ph.D. CS, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford AI Lab (SAIL). Prior: ML Engineer @ Cowlar (YC'21).
+
+</td>
+<td width="54%" valign="top">
+
+`research.keywords`<br/>
+LLM Reasoning · Test-Time Compute · Agentic AI · RL · Diffusion Models · Wireless ML
+<br/>
+`publishes.in`<br/>
+ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`$ now:` test-time compute for LLM reasoning `ICML'26` · diffusion wireless estimation `KDD'26` · Internet-of-Agents platform <sub>[→ details](#-current-work)</sub>
+
+<p>
+<a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
+<a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
+<a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/Scholar-0D1117?style=flat-square&logo=googlescholar&logoColor=58A6FF" /></a>
+<a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
+<a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF" /></a>
 <a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/CV.pdf-0D1117?style=flat-square&logo=readdotcv&logoColor=58A6FF" /></a>
 </p>
+<sub><a href="https://x.com/ahsan_bilal7">X</a> · <a href="https://orcid.org/0009-0002-7044-9316">ORCID</a> · <a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534">Semantic Scholar</a> · <a href="https://dblp.org/pid/227/6464.html">DBLP</a></sub>
 
-<br/>
-
-### `research.interests`
-
-> optimization & test-time compute for reasoning LLMs · agentic, self-evolving multi-agent systems · reinforcement learning for reasoning & non-stationary decision systems · generative (diffusion) models for wireless/signal systems
+</div>
 
 ### `about.me`
 
@@ -155,70 +144,15 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS, Google De
 
 ### `toolbox --stack`
 
-<details open>
-<summary><strong>languages / core</strong></summary><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
-![C](https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=58A6FF)
-
-</details>
-
-<details open>
-<summary><strong>ml / dl</strong></summary><br/>
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=58A6FF)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=58A6FF)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=58A6FF)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=58A6FF)
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF)
-
-</details>
-
-<details>
-<summary><strong>statistics / theory</strong></summary><br/>
-
-![](https://img.shields.io/badge/-Statistical%20Learning%20Theory-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-Probabilistic%20Modelling-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-Information%20Theory-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-Optimization-0D1117?style=flat-square&color=161B22)
-
-</details>
-
-<details>
-<summary><strong>infra / mlops</strong></summary><br/>
-
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
-![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=58A6FF)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
-![AWS](https://img.shields.io/badge/-AWS%20EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=58A6FF)
-![NGINX](https://img.shields.io/badge/-NGINX-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=58A6FF)
-
-</details>
-
-<details>
-<summary><strong>web / design</strong></summary><br/>
-
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=58A6FF)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=58A6FF)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=flat-square&logo=adobexd&logoColor=58A6FF)
-
-</details>
-
-<details>
-<summary><strong>core competencies</strong></summary><br/>
-
-![](https://img.shields.io/badge/-Signal%20Processing-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-5G-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-Connectivity%20Technologies-0D1117?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/-Distributed%20AI%20Systems-0D1117?style=flat-square&color=161B22)
-
-</details>
+`also:` statistical learning theory · probabilistic modelling · information theory · optimization · mlflow · pandas/numpy · signal processing · 5G · distributed AI systems
 
 ### `stats --github`
 

@@ -8,18 +8,31 @@
 
 # Ahsan Bilal
 
-**Ph.D. Researcher, Computer Science** — University of Oklahoma (REAL Lab)
-**Research Collaborator** — Stanford AI Lab (SAIL)
+</div>
 
-*Deep learning optimization · LLM reasoning & test-time compute · agentic AI · reinforcement learning*
+<table width="100%">
+<tr>
+<td width="44%" valign="top">
+
+**Who I Am**
+Ph.D. Researcher, Computer Science, University of Oklahoma (REAL Lab); Research Collaborator, Stanford AI Lab (SAIL). Advised by Dr. Dean Hougen, Prof. John M. Cioffi & Dr. Emily Fox. Prior: ML Engineer, Cowlar Design Studio (YC '21). B.E. EE, NUST-SEECS.
+
+</td>
+<td width="56%" valign="top">
 
 **Research Keywords**
-<br/>
-<sub>LLM Reasoning &nbsp;·&nbsp; Test-Time Compute &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Reinforcement Learning &nbsp;·&nbsp; Preference Optimization &nbsp;·&nbsp; Diffusion Models &nbsp;·&nbsp; Wireless / 5G ML</sub>
+<sub>LLM Reasoning · Test-Time Compute · Agentic AI · Reinforcement Learning · Preference Optimization · Diffusion Models · Wireless / 5G ML</sub>
 
 **Publishes In**
-<br/>
-<sub>ICML &nbsp;·&nbsp; NeurIPS &nbsp;·&nbsp; COLM &nbsp;·&nbsp; KDD &nbsp;·&nbsp; TMLR &nbsp;·&nbsp; AAAI &nbsp;·&nbsp; ICASSP &nbsp;·&nbsp; ICC</sub>
+<sub>ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub><strong>Now:</strong> test-time compute for LLM reasoning (ICML'26) · diffusion wireless estimation (KDD'26) · Internet-of-Agents platform — <a href="#current-work">see Current Work</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7A1F3D&height=2&width=760" />
 
@@ -27,27 +40,20 @@
 <a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/Email-7A1F3D?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://ahsanbilal7.github.io/"><img src="https://img.shields.io/badge/Website-7A1F3D?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-7A1F3D?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-<a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534"><img src="https://img.shields.io/badge/Semantic%20Scholar-7A1F3D?style=flat-square" /></a>
-<a href="https://dblp.org/pid/227/6464.html"><img src="https://img.shields.io/badge/DBLP-7A1F3D?style=flat-square" /></a>
-<a href="https://orcid.org/0009-0002-7044-9316"><img src="https://img.shields.io/badge/ORCID-7A1F3D?style=flat-square&logo=orcid&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/AhsanBilal7"><img src="https://img.shields.io/badge/LinkedIn-7A1F3D?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AhsanBilal7"><img src="https://img.shields.io/badge/GitHub-7A1F3D?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://ahsanbilal7.github.io/assets/pdfs/cv.pdf"><img src="https://img.shields.io/badge/Curriculum%20Vitae-7A1F3D?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
+<sub><a href="https://www.semanticscholar.org/author/Ahsan-Bilal/2059710534">Semantic Scholar</a> · <a href="https://dblp.org/pid/227/6464.html">DBLP</a> · <a href="https://orcid.org/0009-0002-7044-9316">ORCID</a></sub>
 
+<br/>
 <sub><a href="#research-focus">Research Focus</a> · <a href="#current-work">Current Work</a> · <a href="#contributions">Contributions</a> · <a href="#publications">Publications</a> · <a href="#honors">Honors</a> · <a href="#toolbox">Toolbox</a> · <a href="#github-stats">Stats</a></sub>
 
 </div>
 
-<br/>
-
 ## Research Focus
 
 Optimization theory and test-time compute for reasoning-oriented large language models — post-training methods, preference optimization, alignment, and verifier/PRM-guided search across autoregressive and diffusion language models. A parallel line of work designs evolving, self-organizing multi-agent systems with dynamic reputation and trust modelling, and develops reinforcement learning methods for reasoning and non-stationary decision problems, with applications extending to diffusion-based generative modeling for wireless and signal-processing systems.
-
-## Biography
-
-Ahsan Bilal is a Ph.D. student in Computer Science at the **University of Oklahoma**, working in the **REAL Lab** under the supervision of **[Dr. Dean Hougen](https://www.cs.ou.edu/~hougen/resume.html)**, and a Research Collaborator at the **Stanford AI Lab (SAIL)**, advised by **Prof. John M. Cioffi** and **Dr. Emily Fox**. He holds a B.E. in Electrical Engineering from **NUST-SEECS** (Specialization GPA 4.0/4.0) and previously worked as a Machine Learning Engineer at **Cowlar Design Studio (YC '21)**. He is a recipient of the Gallogly College of Engineering Graduate Fellowship (2025) and has co-authored 20+ papers spanning ICML, NeurIPS, COLM, KDD, TMLR, AAAI, ICASSP, and ICC.
 
 ## Current Work
 
@@ -112,13 +118,16 @@ Ahsan Bilal is a Ph.D. student in Computer Science at the **University of Oklaho
 
 ## Toolbox
 
-**Languages & Core** — Python, C/C++, Java, Embedded C, MATLAB
-**Deep Learning & ML** — PyTorch, TensorFlow (Keras), scikit-learn, OpenCV, pandas, NumPy
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
+</p>
+
 **Statistics & Theory** — Statistical learning theory, probabilistic modelling, information theory, optimization
-**Infrastructure & MLOps** — Docker, MLflow, Git, AWS EC2, NGINX, Raspberry Pi OS
-**Web Development** — React, JavaScript, Next.js, HTML5/CSS3
-**Design** — Figma, Adobe XD, Illustrator, Photoshop, WordPress
-**Core Competencies** — Signal processing, 5G, connectivity technologies, classification, distributed AI systems
+**Core Competencies** — Signal processing, 5G, connectivity technologies, classification, distributed AI systems, MLflow, pandas/NumPy
 
 ## GitHub Stats
 
