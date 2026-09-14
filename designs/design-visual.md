@@ -30,10 +30,10 @@ Ph.D. CS, University of Oklahoma (REAL Lab) · Research Collaborator, Stanford A
 <td width="56%" valign="top">
 
 **🧭 Research Keywords**<br/>
-LLM Reasoning &nbsp;·&nbsp; Test-Time Compute &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; RL &nbsp;·&nbsp; Diffusion Models &nbsp;·&nbsp; Wireless ML
+LLM Reasoning &nbsp;·&nbsp; Test-Time Compute &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; RL &nbsp;·&nbsp; Diffusion Models
 <br/>
 **📍 Publishes In**<br/>
-ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
+![](https://img.shields.io/badge/ICML-7C3AED?style=flat-square) ![](https://img.shields.io/badge/NeurIPS-7C3AED?style=flat-square) ![](https://img.shields.io/badge/COLM-7C3AED?style=flat-square) ![](https://img.shields.io/badge/KDD-7C3AED?style=flat-square) ![](https://img.shields.io/badge/TMLR-7C3AED?style=flat-square) ![](https://img.shields.io/badge/AAAI-7C3AED?style=flat-square) ![](https://img.shields.io/badge/ICASSP-7C3AED?style=flat-square) ![](https://img.shields.io/badge/ICC-7C3AED?style=flat-square)
 
 </td>
 </tr>
@@ -123,13 +123,13 @@ ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
 
 | Publication | Venue |
 |---|:---:|
-| **[What If We Allocate Test-Time Compute Adaptively?](https://arxiv.org/pdf/2602.01070)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), D.F. Hougen</sub> | ![](https://img.shields.io/badge/ICML-2026-7C3AED?style=flat-square) |
-| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/pdf/2511.12869)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, *w/ Google DeepMind & Meta AI*</sub> | ![](https://img.shields.io/badge/TMLR-2026-7C3AED?style=flat-square) |
-| **[S³: Stratified Scaling Search for Test-Time in Diffusion LMs](https://arxiv.org/pdf/2604.06260)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/COLM-2026-7C3AED?style=flat-square)<br/><sub>review</sub> |
-| **[Continuous-Utility Direct Preference Optimization](https://arxiv.org/pdf/2602.00931)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/ICML-2026-7C3AED?style=flat-square)<br/><sub>review</sub> |
-| **[Sycophancy Disentanglement via Reward Decomposition](https://arxiv.org/pdf/2604.05279)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=flat-square)<br/><sub>review</sub> |
-| **[General Preference Reinforcement Learning](https://arxiv.org/pdf/2605.18721)**<br/><sub>[M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=flat-square)<br/><sub>review</sub> |
-| **[Epistemic Uncertainty for Test-Time Discovery](https://arxiv.org/pdf/2605.11328)**<br/><sub>K. Riaz, [M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=flat-square)<br/><sub>review</sub> |
+| **[What If We Allocate Test-Time Compute Adaptively?](https://arxiv.org/pdf/2602.01070)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [M. Umer](https://muhd-umer.github.io/), D.F. Hougen</sub> | ![](https://img.shields.io/badge/ICML-2026-7C3AED?style=for-the-badge) |
+| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/pdf/2511.12869)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, *w/ Google DeepMind & Meta AI*</sub> | ![](https://img.shields.io/badge/TMLR-2026-7C3AED?style=for-the-badge) |
+| **[S³: Stratified Scaling Search for Test-Time in Diffusion LMs](https://arxiv.org/pdf/2604.06260)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/), [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/COLM-2026-7C3AED?style=for-the-badge)<br/><sub>review</sub> |
+| **[Continuous-Utility Direct Preference Optimization](https://arxiv.org/pdf/2602.00931)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/ICML-2026-7C3AED?style=for-the-badge)<br/><sub>review</sub> |
+| **[Sycophancy Disentanglement via Reward Decomposition](https://arxiv.org/pdf/2604.05279)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**, [E. Fox](https://emilybfox.su.domains/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=for-the-badge)<br/><sub>review</sub> |
+| **[General Preference Reinforcement Learning](https://arxiv.org/pdf/2605.18721)**<br/><sub>[M. Umer](https://muhd-umer.github.io/), **A. Bilal**, [J.M. Cioffi](https://cioffi-group.stanford.edu/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=for-the-badge)<br/><sub>review</sub> |
+| **[Epistemic Uncertainty for Test-Time Discovery](https://arxiv.org/pdf/2605.11328)**<br/><sub>K. Riaz, [M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/NeurIPS-2026-7C3AED?style=for-the-badge)<br/><sub>review</sub> |
 
 </details>
 
@@ -138,15 +138,15 @@ ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
 
 | Publication | Venue |
 |---|:---:|
-| **[Neural Gaussian Radio Fields for Channel Estimation](https://arxiv.org/pdf/2508.11668)**<br/><sub>[M. Umer](https://muhd-umer.github.io/)\*, **A. Bilal**\*, [M.A. Mohsin](https://ahmd-mohsin.github.io/)\*</sub> | <a href="https://kdd2026.kdd.org/"><img src="https://img.shields.io/badge/KDD-2026-7C3AED?style=flat-square" /></a> |
-| **[Channel Prediction Under Distribution Shift](https://arxiv.org/pdf/2509.15192)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICASSP-2026-7C3AED?style=flat-square) |
-| **[Conditional Prior Non-Stationary Channel Estimation](https://arxiv.org/pdf/2509.15182)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/)</sub> | ![](https://img.shields.io/badge/ICASSP-2026-7C3AED?style=flat-square) |
-| **[Transformer-Based Sparse CSI Estimation](https://arxiv.org/pdf/2511.01333)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICC-2026-7C3AED?style=flat-square) |
-| **[Continual Learning for Wireless Channel Prediction](https://arxiv.org/pdf/2501.17879)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICML-2025-7C3AED?style=flat-square)<br/><sub>Workshop</sub> |
-| **[RAG with Multi-Modal LLMs for Wireless](https://arxiv.org/pdf/2503.07670)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICC-2025-7C3AED?style=flat-square)<br/><sub>🏆 Best Paper</sub> |
-| **[Hierarchical DRL for Spectrum Resource Optimization](https://arxiv.org/pdf/2501.09212)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-7C3AED?style=flat-square)<br/><sub>Workshop</sub> |
-| **[Task-Aware Distributed Source Coding for Audio](https://arxiv.org/pdf/2501.17879)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-7C3AED?style=flat-square)<br/><sub>Workshop</sub> |
-| **[ITDPDM: Information-Theoretic Discrete Poisson Diffusion Model](https://arxiv.org/pdf/2505.05082)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A. Bilal**, [T. Weissman](https://web.stanford.edu/~tsachy/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2025-7C3AED?style=flat-square) |
+| **[Neural Gaussian Radio Fields for Channel Estimation](https://arxiv.org/pdf/2508.11668)**<br/><sub>[M. Umer](https://muhd-umer.github.io/)\*, **A. Bilal**\*, [M.A. Mohsin](https://ahmd-mohsin.github.io/)\*</sub> | <a href="https://kdd2026.kdd.org/"><img src="https://img.shields.io/badge/KDD-2026-7C3AED?style=for-the-badge" /></a> |
+| **[Channel Prediction Under Distribution Shift](https://arxiv.org/pdf/2509.15192)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICASSP-2026-7C3AED?style=for-the-badge) |
+| **[Conditional Prior Non-Stationary Channel Estimation](https://arxiv.org/pdf/2509.15182)**<br/><sub>**A. Bilal**, [M.A. Mohsin](https://ahmd-mohsin.github.io/)</sub> | ![](https://img.shields.io/badge/ICASSP-2026-7C3AED?style=for-the-badge) |
+| **[Transformer-Based Sparse CSI Estimation](https://arxiv.org/pdf/2511.01333)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICC-2026-7C3AED?style=for-the-badge) |
+| **[Continual Learning for Wireless Channel Prediction](https://arxiv.org/pdf/2501.17879)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICML-2025-7C3AED?style=for-the-badge)<br/><sub>Workshop</sub> |
+| **[RAG with Multi-Modal LLMs for Wireless](https://arxiv.org/pdf/2503.07670)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/ICC-2025-7C3AED?style=for-the-badge)<br/><sub>🏆 Best Paper</sub> |
+| **[Hierarchical DRL for Spectrum Resource Optimization](https://arxiv.org/pdf/2501.09212)**<br/><sub>[M.A. Mohsin](https://ahmd-mohsin.github.io/), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-7C3AED?style=for-the-badge)<br/><sub>Workshop</sub> |
+| **[Task-Aware Distributed Source Coding for Audio](https://arxiv.org/pdf/2501.17879)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A. Bilal**</sub> | ![](https://img.shields.io/badge/AAAI-2025-7C3AED?style=for-the-badge)<br/><sub>Workshop</sub> |
+| **[ITDPDM: Information-Theoretic Discrete Poisson Diffusion Model](https://arxiv.org/pdf/2505.05082)**<br/><sub>[S. Bhattacharya](https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en), **A. Bilal**, [T. Weissman](https://web.stanford.edu/~tsachy/)</sub> | ![](https://img.shields.io/badge/NeurIPS-2025-7C3AED?style=for-the-badge) |
 
 </details>
 

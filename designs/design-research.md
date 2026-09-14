@@ -21,10 +21,10 @@ Ph.D. Researcher, Computer Science, University of Oklahoma (REAL Lab); Research 
 <td width="56%" valign="top">
 
 **Research Keywords**
-<sub>LLM Reasoning · Test-Time Compute · Agentic AI · Reinforcement Learning · Preference Optimization · Diffusion Models · Wireless / 5G ML</sub>
+<sub>LLM Reasoning · Test-Time Compute · Agentic AI · Reinforcement Learning · Preference Optimization · Diffusion Models</sub>
 
 **Publishes In**
-<sub>ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC</sub>
+<br/>![](https://img.shields.io/badge/ICML-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/NeurIPS-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/COLM-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/KDD-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/TMLR-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/AAAI-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/ICASSP-7A1F3D?style=flat-square) ![](https://img.shields.io/badge/ICC-7A1F3D?style=flat-square)
 
 </td>
 </tr>
@@ -74,33 +74,33 @@ Optimization theory and test-time compute for reasoning-oriented large language 
 
 ### LLM Reasoning, Agentic AI & Reinforcement Learning
 
-1. A. Bilal\*, M.A. Mohsin\*, M. Umer, A. Subhan, H. Rizwan, A. Mohsin, D.F. Hougen. "What If We Allocate Test-Time Compute Adaptively?" *ICML*, 2026. [[PDF]](https://arxiv.org/pdf/2602.01070)
-2. M.A. Mohsin, A. Bilal, M. Umer, A. Aali, W. Zhao, *et al. (Google DeepMind, Meta AI)*. "On the Fundamental Limits of LLMs at Scale." *TMLR*, 2026. [[PDF]](https://arxiv.org/pdf/2511.12869)
-3. A. Bilal, M.A. Mohsin, M. Umer, A. Aali, M.U. Khanzada, M.U. Rafique, Z. He, E. Fox, D.F. Hougen. "S³: Stratified Scaling Search for Test-Time in Diffusion Language Models." *COLM*, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2604.06260)
-4. M.A. Mohsin, M. Umer, A. Bilal, Z. He, M.U. Rafique, A. Aali, M.A. Jamshed, J.M. Cioffi, E. Fox. "Continuous-Utility Direct Preference Optimization." *ICML*, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2602.00931)
-5. M.A. Mohsin, A. Bilal, M. Umer, E. Fox. "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition." *NeurIPS*, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2604.05279)
-6. M. Umer, M.A. Mohsin, A. Bilal, A. Chaudhry, A. Haupt, S. Koyejo, E. Fox, J.M. Cioffi. "General Preference Reinforcement Learning." *NeurIPS*, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2605.18721)
-7. K. Riaz, M.A. Mohsin, A. Bilal, M. Umer, A. Mohsin, A. Riaz, A. Subhan, J.M. Cioffi. "Epistemic Uncertainty for Test-Time Discovery." *NeurIPS*, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2605.11328)
+1. A. Bilal\*, M.A. Mohsin\*, M. Umer, A. Subhan, H. Rizwan, A. Mohsin, D.F. Hougen. "What If We Allocate Test-Time Compute Adaptively?" **ICML**, 2026. [[PDF]](https://arxiv.org/pdf/2602.01070)
+2. M.A. Mohsin, A. Bilal, M. Umer, A. Aali, W. Zhao, *et al. (Google DeepMind, Meta AI)*. "On the Fundamental Limits of LLMs at Scale." **TMLR**, 2026. [[PDF]](https://arxiv.org/pdf/2511.12869)
+3. A. Bilal, M.A. Mohsin, M. Umer, A. Aali, M.U. Khanzada, M.U. Rafique, Z. He, E. Fox, D.F. Hougen. "S³: Stratified Scaling Search for Test-Time in Diffusion Language Models." **COLM**, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2604.06260)
+4. M.A. Mohsin, M. Umer, A. Bilal, Z. He, M.U. Rafique, A. Aali, M.A. Jamshed, J.M. Cioffi, E. Fox. "Continuous-Utility Direct Preference Optimization." **ICML**, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2602.00931)
+5. M.A. Mohsin, A. Bilal, M. Umer, E. Fox. "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition." **NeurIPS**, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2604.05279)
+6. M. Umer, M.A. Mohsin, A. Bilal, A. Chaudhry, A. Haupt, S. Koyejo, E. Fox, J.M. Cioffi. "General Preference Reinforcement Learning." **NeurIPS**, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2605.18721)
+7. K. Riaz, M.A. Mohsin, A. Bilal, M. Umer, A. Mohsin, A. Riaz, A. Subhan, J.M. Cioffi. "Epistemic Uncertainty for Test-Time Discovery." **NeurIPS**, 2026 (under review). [[PDF]](https://arxiv.org/pdf/2605.11328)
 
 ### Wireless, Signal & Generative ML
 
-8. M. Umer\*, A. Bilal\*, M.A. Mohsin\*, J.M. Cioffi. "Neural Gaussian Radio Fields for Channel Estimation." *[KDD](https://kdd2026.kdd.org/)*, 2026. [[PDF]](https://arxiv.org/pdf/2508.11668)
-9. M.A. Mohsin, M. Umer, A. Bilal, M.I. Qadir, M.A. Jamshed, D.F. Hougen, J.M. Cioffi. "Channel Prediction Under Network Distribution Shift Using Continual Learning-Based Loss Regularization." *ICASSP*, 2026. [[PDF]](https://arxiv.org/pdf/2509.15192)
-10. A. Bilal, M.A. Mohsin, M. Umer, A. Ali, M.A. Jamshed, D.F. Hougen, J.M. Cioffi. "Conditional Prior-Based Non-Stationary Channel Estimation Using Accelerated Diffusion Models." *ICASSP*, 2026. [[PDF]](https://arxiv.org/pdf/2509.15182)
-11. M.A. Mohsin, M. Umer, A. Bilal, H. Rizwan, S. Bhattacharya, M.A. Jamshed, J.M. Cioffi. "Transformer-Based Sparse CSI Estimation for Non-Stationary Channels." *ICC*, 2026. [[PDF]](https://arxiv.org/pdf/2511.01333)
-12. M.A. Mohsin, M. Umer, A. Bilal, M.A. Jamshed, J.M. Cioffi. "Continual Learning for Wireless Channel Prediction." *ICML Workshop*, 2025. [[PDF]](https://arxiv.org/pdf/2501.17879) · [[Site]](https://cioffi-group-stanford.github.io/Websites/wireless_continual)
-13. M.A. Mohsin, A. Bilal, S. Bhattacharya, J.M. Cioffi. "Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments." *ICC Workshop*, 2025 — **Best Paper Award**. [[PDF]](https://arxiv.org/pdf/2503.07670) · [[Site]](https://cioffi-group-stanford.github.io/Websites/RAG_wireless.html)
-14. M.A. Mohsin, H. Rizwan, M. Umer, S. Bhattacharya, A. Bilal, J.M. Cioffi. "Hierarchical Deep RL for Spectrum Resource Optimization in Integrated Terrestrial and Non-Terrestrial Networks." *AAAI Workshop*, 2025. [[PDF]](https://arxiv.org/pdf/2501.09212) · [[Site]](https://cioffi-group-stanford.github.io/Websites/hierarchical_wireless.html)
-15. S. Bhattacharya, M.A. Mohsin, A. Bilal, J.M. Cioffi. "Task-Aware Distributed Source Coding for Correlated Audio Signals Using Perceptual Loss." *AAAI Workshop*, 2025. [[PDF]](https://arxiv.org/pdf/2501.17879) · [[Site]](https://cioffi-group-stanford.github.io/Websites/task_aware)
-16. S. Bhattacharya, A.R. Gorle, A. Bilal, C. Ding, A.K.S. Yadav, T. Weissman. "ITDPDM: Information-Theoretic Discrete Poisson Diffusion Model." *NeurIPS*, 2025. [[PDF]](https://arxiv.org/pdf/2505.05082)
+8. M. Umer\*, A. Bilal\*, M.A. Mohsin\*, J.M. Cioffi. "Neural Gaussian Radio Fields for Channel Estimation." **[KDD](https://kdd2026.kdd.org/)**, 2026. [[PDF]](https://arxiv.org/pdf/2508.11668)
+9. M.A. Mohsin, M. Umer, A. Bilal, M.I. Qadir, M.A. Jamshed, D.F. Hougen, J.M. Cioffi. "Channel Prediction Under Network Distribution Shift Using Continual Learning-Based Loss Regularization." **ICASSP**, 2026. [[PDF]](https://arxiv.org/pdf/2509.15192)
+10. A. Bilal, M.A. Mohsin, M. Umer, A. Ali, M.A. Jamshed, D.F. Hougen, J.M. Cioffi. "Conditional Prior-Based Non-Stationary Channel Estimation Using Accelerated Diffusion Models." **ICASSP**, 2026. [[PDF]](https://arxiv.org/pdf/2509.15182)
+11. M.A. Mohsin, M. Umer, A. Bilal, H. Rizwan, S. Bhattacharya, M.A. Jamshed, J.M. Cioffi. "Transformer-Based Sparse CSI Estimation for Non-Stationary Channels." **ICC**, 2026. [[PDF]](https://arxiv.org/pdf/2511.01333)
+12. M.A. Mohsin, M. Umer, A. Bilal, M.A. Jamshed, J.M. Cioffi. "Continual Learning for Wireless Channel Prediction." **ICML Workshop**, 2025. [[PDF]](https://arxiv.org/pdf/2501.17879) · [[Site]](https://cioffi-group-stanford.github.io/Websites/wireless_continual)
+13. M.A. Mohsin, A. Bilal, S. Bhattacharya, J.M. Cioffi. "Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments." **ICC Workshop**, 2025 — **Best Paper Award**. [[PDF]](https://arxiv.org/pdf/2503.07670) · [[Site]](https://cioffi-group-stanford.github.io/Websites/RAG_wireless.html)
+14. M.A. Mohsin, H. Rizwan, M. Umer, S. Bhattacharya, A. Bilal, J.M. Cioffi. "Hierarchical Deep RL for Spectrum Resource Optimization in Integrated Terrestrial and Non-Terrestrial Networks." **AAAI Workshop**, 2025. [[PDF]](https://arxiv.org/pdf/2501.09212) · [[Site]](https://cioffi-group-stanford.github.io/Websites/hierarchical_wireless.html)
+15. S. Bhattacharya, M.A. Mohsin, A. Bilal, J.M. Cioffi. "Task-Aware Distributed Source Coding for Correlated Audio Signals Using Perceptual Loss." **AAAI Workshop**, 2025. [[PDF]](https://arxiv.org/pdf/2501.17879) · [[Site]](https://cioffi-group-stanford.github.io/Websites/task_aware)
+16. S. Bhattacharya, A.R. Gorle, A. Bilal, C. Ding, A.K.S. Yadav, T. Weissman. "ITDPDM: Information-Theoretic Discrete Poisson Diffusion Model." **NeurIPS**, 2025. [[PDF]](https://arxiv.org/pdf/2505.05082)
 
 <details>
 <summary><strong>Additional & early-career publications (4)</strong></summary><br/>
 
-17. A. Bilal, M.A. Mohsin, M. Umer, M.A.K. Bangash, M.A. Jamshed. "Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey." *IEEE TAI* (under review). [[PDF]](https://arxiv.org/pdf/2504.14520) · [[Site]](https://cioffi-group-stanford.github.io/Websites/meta_thinking_llms.html)
-18. A. Bilal, B. Lin. "Abstract — LLM for Explainable AI." *IEEE DSAA*, 2024 (poster).
-19. A. Bilal, A. Salman, K. Khurshid, D.F. Hougen. "On Shadow Removal With Boosted Attention in a Vision Transformer." *Springer Machine Learning* (under review).
-20. A. Bilal, A. Salman, K. Khurshid. "Person Identification Using Gait With Fused Graph and 3D-Convolutional Architectures." *ACM TAIS* (under review).
+17. A. Bilal, M.A. Mohsin, M. Umer, M.A.K. Bangash, M.A. Jamshed. "Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey." **IEEE TAI** (under review). [[PDF]](https://arxiv.org/pdf/2504.14520) · [[Site]](https://cioffi-group-stanford.github.io/Websites/meta_thinking_llms.html)
+18. A. Bilal, B. Lin. "Abstract — LLM for Explainable AI." **IEEE DSAA**, 2024 (poster).
+19. A. Bilal, A. Salman, K. Khurshid, D.F. Hougen. "On Shadow Removal With Boosted Attention in a Vision Transformer." **Springer Machine Learning** (under review).
+20. A. Bilal, A. Salman, K. Khurshid. "Person Identification Using Gait With Fused Graph and 3D-Convolutional Architectures." **ACM TAIS** (under review).
 
 </details>
 

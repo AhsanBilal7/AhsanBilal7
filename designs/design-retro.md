@@ -35,10 +35,10 @@ PhD CS @ OU (REAL Lab) · SAIL Collaborator · Prior: Cowlar (YC'21) · B.E. EE,
 <td width="60%" valign="top">
 
 `RESEARCH_KEYWORDS.dat`<br/>
-LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DIFFUSION_MODELS · WIRELESS_ML
+LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DIFFUSION_MODELS
 <br/>
 `PUBLISHED_IN.log`<br/>
-ICML · NEURIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
+![](https://img.shields.io/badge/-ICML-15803D?style=flat-square) ![](https://img.shields.io/badge/-NEURIPS-15803D?style=flat-square) ![](https://img.shields.io/badge/-COLM-15803D?style=flat-square) ![](https://img.shields.io/badge/-KDD-15803D?style=flat-square) ![](https://img.shields.io/badge/-TMLR-15803D?style=flat-square) ![](https://img.shields.io/badge/-AAAI-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICASSP-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICC-15803D?style=flat-square)
 
 </td>
 </tr>
@@ -116,13 +116,13 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 
 | FILE | VENUE |
 |---|:---:|
-| [`test_time_compute_adaptive.pdf`](https://arxiv.org/pdf/2602.01070) — A.Bilal, M.A.Mohsin, M.Umer, D.F.Hougen | `ICML26` |
-| [`fundamental_limits_llms.pdf`](https://arxiv.org/pdf/2511.12869) — M.A.Mohsin, A.Bilal, w/ DeepMind+Meta | `TMLR26` |
-| [`s3_diffusion_search.pdf`](https://arxiv.org/pdf/2604.06260) — A.Bilal, M.A.Mohsin, E.Fox | `COLM26` `review` |
-| [`continuous_utility_dpo.pdf`](https://arxiv.org/pdf/2602.00931) — M.A.Mohsin, A.Bilal, J.M.Cioffi | `ICML26` `review` |
-| [`sycophancy_reward_decomp.pdf`](https://arxiv.org/pdf/2604.05279) — M.A.Mohsin, A.Bilal, E.Fox | `NeurIPS26` `review` |
-| [`general_preference_rl.pdf`](https://arxiv.org/pdf/2605.18721) — M.Umer, A.Bilal, J.M.Cioffi | `NeurIPS26` `review` |
-| [`epistemic_uncertainty_ttd.pdf`](https://arxiv.org/pdf/2605.11328) — K.Riaz, A.Bilal, J.M.Cioffi | `NeurIPS26` `review` |
+| [`test_time_compute_adaptive.pdf`](https://arxiv.org/pdf/2602.01070) — A.Bilal, M.A.Mohsin, M.Umer, D.F.Hougen | **`ICML26`** |
+| [`fundamental_limits_llms.pdf`](https://arxiv.org/pdf/2511.12869) — M.A.Mohsin, A.Bilal, w/ DeepMind+Meta | **`TMLR26`** |
+| [`s3_diffusion_search.pdf`](https://arxiv.org/pdf/2604.06260) — A.Bilal, M.A.Mohsin, E.Fox | **`COLM26`** `review` |
+| [`continuous_utility_dpo.pdf`](https://arxiv.org/pdf/2602.00931) — M.A.Mohsin, A.Bilal, J.M.Cioffi | **`ICML26`** `review` |
+| [`sycophancy_reward_decomp.pdf`](https://arxiv.org/pdf/2604.05279) — M.A.Mohsin, A.Bilal, E.Fox | **`NeurIPS26`** `review` |
+| [`general_preference_rl.pdf`](https://arxiv.org/pdf/2605.18721) — M.Umer, A.Bilal, J.M.Cioffi | **`NeurIPS26`** `review` |
+| [`epistemic_uncertainty_ttd.pdf`](https://arxiv.org/pdf/2605.11328) — K.Riaz, A.Bilal, J.M.Cioffi | **`NeurIPS26`** `review` |
 
 </details>
 
@@ -131,15 +131,15 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 
 | FILE | VENUE |
 |---|:---:|
-| [`neural_gaussian_radio_fields.pdf`](https://arxiv.org/pdf/2508.11668) — M.Umer*, A.Bilal*, M.A.Mohsin* | `KDD26` |
-| [`channel_pred_distribution_shift.pdf`](https://arxiv.org/pdf/2509.15192) — M.A.Mohsin, A.Bilal | `ICASSP26` |
-| [`conditional_prior_diffusion.pdf`](https://arxiv.org/pdf/2509.15182) — A.Bilal, M.A.Mohsin | `ICASSP26` |
-| [`transformer_sparse_csi.pdf`](https://arxiv.org/pdf/2511.01333) — M.A.Mohsin, A.Bilal | `ICC26` |
-| [`continual_learning_wireless.pdf`](https://arxiv.org/pdf/2501.17879) — M.A.Mohsin, A.Bilal | `ICML25` `wksp` |
-| [`rag_multimodal_wireless.pdf`](https://arxiv.org/pdf/2503.07670) — M.A.Mohsin, A.Bilal | `ICC25` `wksp` 🏆 |
-| [`hierarchical_drl_spectrum.pdf`](https://arxiv.org/pdf/2501.09212) — M.A.Mohsin, A.Bilal | `AAAI25` `wksp` |
-| [`task_aware_dsc_audio.pdf`](https://arxiv.org/pdf/2501.17879) — S.Bhattacharya, A.Bilal | `AAAI25` `wksp` |
-| [`itdpdm_poisson_diffusion.pdf`](https://arxiv.org/pdf/2505.05082) — S.Bhattacharya, A.Bilal | `NeurIPS25` |
+| [`neural_gaussian_radio_fields.pdf`](https://arxiv.org/pdf/2508.11668) — M.Umer*, A.Bilal*, M.A.Mohsin* | **`KDD26`** |
+| [`channel_pred_distribution_shift.pdf`](https://arxiv.org/pdf/2509.15192) — M.A.Mohsin, A.Bilal | **`ICASSP26`** |
+| [`conditional_prior_diffusion.pdf`](https://arxiv.org/pdf/2509.15182) — A.Bilal, M.A.Mohsin | **`ICASSP26`** |
+| [`transformer_sparse_csi.pdf`](https://arxiv.org/pdf/2511.01333) — M.A.Mohsin, A.Bilal | **`ICC26`** |
+| [`continual_learning_wireless.pdf`](https://arxiv.org/pdf/2501.17879) — M.A.Mohsin, A.Bilal | **`ICML25`** `wksp` |
+| [`rag_multimodal_wireless.pdf`](https://arxiv.org/pdf/2503.07670) — M.A.Mohsin, A.Bilal | **`ICC25`** `wksp` 🏆 |
+| [`hierarchical_drl_spectrum.pdf`](https://arxiv.org/pdf/2501.09212) — M.A.Mohsin, A.Bilal | **`AAAI25`** `wksp` |
+| [`task_aware_dsc_audio.pdf`](https://arxiv.org/pdf/2501.17879) — S.Bhattacharya, A.Bilal | **`AAAI25`** `wksp` |
+| [`itdpdm_poisson_diffusion.pdf`](https://arxiv.org/pdf/2505.05082) — S.Bhattacharya, A.Bilal | **`NeurIPS25`** |
 
 </details>
 
