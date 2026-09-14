@@ -145,9 +145,9 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS, Google De
 ### `toolbox --stack`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
+<img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>

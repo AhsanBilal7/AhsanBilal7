@@ -119,9 +119,9 @@ Optimization theory and test-time compute for reasoning-oriented large language 
 ## Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
+<img src="https://skillicons.dev/icons?i=py,anaconda,latex,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
 </p>
