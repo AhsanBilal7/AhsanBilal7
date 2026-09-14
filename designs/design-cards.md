@@ -200,8 +200,8 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
 </picture>
 <br/>
 <picture>
@@ -210,7 +210,8 @@ I hold a **B.E. in Electrical Engineering from NUST-SEECS** (Spec. GPA 4.0/4.0) 
 </picture>
 </p>
 
-<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Probabilistic Modelling · Information Theory · Optimization · MLflow · Pandas/NumPy · Signal Processing · 5G · Connectivity Technologies · Distributed AI Systems</sub></p>
+<p align="center"><sub><strong>ML Techniques:</strong> GRPO · LoRA · ZeRO · Preference Optimization · Test-Time Scaling · LLM Post-Training · Agentic Systems</sub></p>
+<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Probabilistic Modelling · Information Theory · Optimization · MLflow · CUDA · Slurm · Cursor · Pandas/NumPy · Signal Processing · 5G · Connectivity Technologies · Distributed AI Systems</sub></p>
 
 ## 📊 Stats
 

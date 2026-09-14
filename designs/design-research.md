@@ -121,13 +121,14 @@ Optimization theory and test-time compute for reasoning-oriented large language 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=light" alt="Languages, ML & DL" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=light" alt="Design" />
 </p>
 
+**ML Techniques** — GRPO, LoRA, ZeRO, preference optimization, test-time scaling, LLM post-training, agentic systems
 **Statistics & Theory** — Statistical learning theory, probabilistic modelling, information theory, optimization
-**Core Competencies** — Signal processing, 5G, connectivity technologies, classification, distributed AI systems, MLflow, pandas/NumPy
+**Core Competencies** — Signal processing, 5G, connectivity technologies, classification, distributed AI systems, MLflow, CUDA, Slurm, Cursor, pandas/NumPy
 
 ## GitHub Stats
 

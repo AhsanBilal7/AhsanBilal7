@@ -160,12 +160,14 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>
 
-`also:` STATISTICAL_LEARNING_THEORY · INFORMATION_THEORY · OPTIMIZATION · MLFLOW · SIGNAL_PROCESSING · 5G · DISTRIBUTED_AI_SYSTEMS
+`ml_techniques:` GRPO · LORA · ZERO · PREFERENCE_OPTIMIZATION · TEST-TIME_SCALING · LLM_POST-TRAINING · AGENTIC_SYSTEMS
+
+`also:` STATISTICAL_LEARNING_THEORY · INFORMATION_THEORY · OPTIMIZATION · MLFLOW · CUDA · SLURM · CURSOR · SIGNAL_PROCESSING · 5G · DISTRIBUTED_AI_SYSTEMS
 
 ## $ github_stats
 

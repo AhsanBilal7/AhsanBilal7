@@ -168,8 +168,8 @@ ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=light" alt="Infra, MLOps & Web" />
 </picture>
 <br/>
 <picture>
@@ -178,7 +178,8 @@ ICML · NeurIPS · COLM · KDD · TMLR · AAAI · ICASSP · ICC
 </picture>
 </p>
 
-<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Information Theory · Optimization · MLflow · Signal Processing · 5G · Distributed AI Systems</sub></p>
+<p align="center"><sub><strong>ML Techniques:</strong> GRPO · LoRA · ZeRO · Preference Optimization · Test-Time Scaling · LLM Post-Training · Agentic Systems</sub></p>
+<p align="center"><sub><strong>Also:</strong> Statistical Learning Theory · Information Theory · Optimization · MLflow · CUDA · Slurm · Cursor · Signal Processing · 5G · Distributed AI Systems</sub></p>
 
 ## 📊 GitHub Stats
 

@@ -147,12 +147,14 @@ network:      [Stanford Statistics, University of Glasgow, NUST-SEECS, Google De
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages, ML & DL" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,nginx,raspberrypi,react,nextjs,js,html,css&theme=dark" alt="Infra, MLOps & Web" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,wordpress&theme=dark" alt="Design" />
 </p>
 
-`also:` statistical learning theory · probabilistic modelling · information theory · optimization · mlflow · pandas/numpy · signal processing · 5G · distributed AI systems
+`ml_techniques:` GRPO · LoRA · ZeRO · preference optimization · test-time scaling · LLM post-training · agentic systems
+
+`also:` statistical learning theory · probabilistic modelling · information theory · optimization · mlflow · CUDA · slurm · cursor · pandas/numpy · signal processing · 5G · distributed AI systems
 
 ### `stats --github`
 
