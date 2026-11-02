@@ -29,16 +29,16 @@
 <td width="40%" valign="top">
 
 `WHOAMI.dat`<br/>
-PhD CS @ OU (REAL Lab) · SAIL Collaborator · Prior: Cowlar (YC'21) · B.E. EE, NUST-SEECS
+PhD CS @ OU (REAL Lab) · SAIL Collaborator · Prior: Cowlar (YC'17) · B.E. EE, NUST-SEECS
 
 </td>
 <td width="60%" valign="top">
 
 `RESEARCH_KEYWORDS.dat`<br/>
-LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DIFFUSION_MODELS
+LLM_REASONING · TEST-TIME_COMPUTE · SELF-EVOLVING_LLMS · POST-TRAINING · KV_CACHE · AGENTIC_AI
 <br/>
 `PUBLISHED_IN.log`<br/>
-![](https://img.shields.io/badge/-ICML-15803D?style=flat-square) ![](https://img.shields.io/badge/-NEURIPS-15803D?style=flat-square) ![](https://img.shields.io/badge/-COLM-15803D?style=flat-square) ![](https://img.shields.io/badge/-KDD-15803D?style=flat-square) ![](https://img.shields.io/badge/-TMLR-15803D?style=flat-square) ![](https://img.shields.io/badge/-AAAI-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICASSP-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICC-15803D?style=flat-square)
+![](https://img.shields.io/badge/-ICML-15803D?style=flat-square) ![](https://img.shields.io/badge/-NEURIPS-15803D?style=flat-square) ![](https://img.shields.io/badge/-CoNLL-15803D?style=flat-square) ![](https://img.shields.io/badge/-KDD-15803D?style=flat-square) ![](https://img.shields.io/badge/-TMLR-15803D?style=flat-square) ![](https://img.shields.io/badge/-AAAI-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICASSP-15803D?style=flat-square) ![](https://img.shields.io/badge/-ICC-15803D?style=flat-square)
 
 </td>
 </tr>
@@ -46,7 +46,7 @@ LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DI
 
 <div align="center">
 
-`$ now:` test_time_compute.run() `ICML'26` · diffusion_wireless.run() `KDD'26` · internet_of_agents.run() &nbsp;<sub>[→ current_work](#-current_work)</sub>
+`$ now:` self_evolving_llms.run() · kv_cache_eviction.run() `ICLR'27` · test_time_compute.run() `ICML'26` &nbsp;<sub>[→ current_work](#-current_work)</sub>
 
 <p>
 <a href="mailto:ahsan.bilal-1@ou.edu"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0B0F0C" /></a>
@@ -72,8 +72,10 @@ LLM_REASONING · TEST-TIME_COMPUTE · AGENTIC_AI · REINFORCEMENT_LEARNING · DI
 ```
 $ cat research_focus.txt
 Deep learning optimization & test-time compute for reasoning LLMs (post-training,
-preference optimization, verifier/PRM-guided search) · agentic, self-evolving
-multi-agent systems · reinforcement learning for reasoning & non-stationary decision
+preference optimization, verifier/PRM-guided search) · post-training for
+self-evolving LLMs (Challenger-Solver self-play, minimax-regret environment
+design, influence-guided RLVR data selection) · KV-cache-efficient inference ·
+agentic multi-agent systems · reinforcement learning for reasoning & non-stationary decision
 systems · diffusion / generative modeling applied to wireless & signal ML.
 ```
 
@@ -85,23 +87,26 @@ ROLE        : Ph.D. Candidate, Computer Science — University of Oklahoma (REAL
 ALSO        : Research Collaborator, Stanford AI Lab (SAIL)
 ADVISORS    : Dr. Dean Hougen (OU) · Prof. John M. Cioffi (Stanford) · Dr. Emily Fox (Stanford)
 BACKGROUND  : B.E. Electrical Engineering, NUST-SEECS (Spec. GPA 4.0/4.0)
-PRIOR_ROLE  : ML Engineer @ Cowlar Design Studio (YC'21)
-PUBLICATIONS: 20+  |  FELLOWSHIP: Gallogly College of Engineering Graduate Fellow, 2025
+PRIOR_ROLE  : ML Engineer @ Cowlar Design Studio (YC'17)
+PUBLICATIONS: 30  |  FELLOWSHIP: Gallogly College of Engineering Graduate Fellow, 2025
 ```
 
 ## $ current_work
 
 | PROCESS | LAB | STATUS |
 |---|---|---|
-| `test_time_compute.run()` | REAL Lab, OU | Verifier/PRM-guided reasoning, agentic RL controllers — `ICML'26` `COLM'26` |
+| `self_evolving_llms.run()` | REAL Lab, OU | Challenger–Solver self-play with minimax-regret (PSRO) environment design over verifiable environments; influence-guided RLVR data selection — `ongoing` |
+| `kv_cache_eviction.run()` | REAL Lab, OU | Monte Carlo KV-cache eviction, head-adaptive sparse attention — `ICLR'27` |
+| `test_time_compute.run()` | REAL Lab, OU | Verifier/PRM-guided reasoning, agentic RL controllers — `ICML'26` `ICLR'27` |
 | `diffusion_wireless.run()` | Stanford AI Lab | Neural Gaussian Radio Fields (nGRF), diffusion test-time scaling — `KDD'26` |
 | `internet_of_agents.run()` | Conoid.ai | Decentralized, self-evolving multi-agent platform |
-| `meta_thinking_survey.run()` | Independent | Survey — meta-thinking in LLMs via multi-agent RL — `IEEE TAI` (review) |
+| `meta_thinking_survey.run()` | Independent | Survey — meta-thinking in LLMs via multi-agent RL — `EAAI` (review) |
 
 ## $ contributions
 
 ```
-PEER_REVIEW  : ICML, NeurIPS, ICASSP, PAKDD, TMLR, IEEE WCM, Springer MT&A, IEEE Access
+PROGRAM_COMM : AAAI'27, VTC2027-Spring (TPC)
+PEER_REVIEW  : ICLR, ICML, NeurIPS, ICASSP, PAKDD, TMLR, IEEE WCM, Springer MT&A, IEEE Access
 CROSS_ORG    : co-authored w/ researchers from Google DeepMind & Meta AI (TMLR'26)
 TEACHING     : TA — CS-1313 Programming for Non-Majors in C, University of Oklahoma
 TALKS        : "AI in Healthcare" — Norman Regional Hospital (w/ Dr. Lubna Mirza)
@@ -109,20 +114,25 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 ```
 
 ## $ publications
-<sub>16 of 20+ shown · full list → <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ">Google Scholar</a></sub>
+<sub>30 papers · \*equal contribution · full list → <a href="https://scholar.google.com/citations?user=UxYCwTcAAAAJ">Google Scholar</a></sub>
 
 <details open>
-<summary><strong>LLM_REASONING_AGENTIC_RL/</strong></summary><br/>
+<summary><strong>LLM_REASONING_POSTTRAINING_EFFICIENCY/</strong></summary><br/>
 
 | FILE | VENUE |
 |---|:---:|
-| [`test_time_compute_adaptive.pdf`](https://arxiv.org/pdf/2602.01070) — A.Bilal, M.A.Mohsin, M.Umer, D.F.Hougen | **`ICML26`** |
-| [`fundamental_limits_llms.pdf`](https://arxiv.org/pdf/2511.12869) — M.A.Mohsin, A.Bilal, w/ DeepMind+Meta | **`TMLR26`** |
-| [`s3_diffusion_search.pdf`](https://arxiv.org/pdf/2604.06260) — A.Bilal, M.A.Mohsin, E.Fox | **`COLM26`** `review` |
-| [`continuous_utility_dpo.pdf`](https://arxiv.org/pdf/2602.00931) — M.A.Mohsin, A.Bilal, J.M.Cioffi | **`ICML26`** `review` |
-| [`sycophancy_reward_decomp.pdf`](https://arxiv.org/pdf/2604.05279) — M.A.Mohsin, A.Bilal, E.Fox | **`NeurIPS26`** `review` |
-| [`general_preference_rl.pdf`](https://arxiv.org/pdf/2605.18721) — M.Umer, A.Bilal, J.M.Cioffi | **`NeurIPS26`** `review` |
-| [`epistemic_uncertainty_ttd.pdf`](https://arxiv.org/pdf/2605.11328) — K.Riaz, A.Bilal, J.M.Cioffi | **`NeurIPS26`** `review` |
+| [`adaptive_test_time_compute.pdf`](https://arxiv.org/pdf/2602.01070) — **A.Bilal**\*, M.A.Mohsin\*, M.Umer, A.Subhan, H.Rizwan, A.Mohsin, D.F.Hougen | **`ICML26`** |
+| [`monte_carlo_kv_eviction.pdf`](https://arxiv.org/pdf/2610.07643) — **A.Bilal**, M.A.Mohsin, M.Umer, W.H.Raza, A.U.Asad, Y.D.Kwon, M.Valko, D.F.Hougen | **`ICLR27`** `review` |
+| `head_adaptive_sparse_attention.pdf` — W.H.Raza, **A.Bilal**, Y.Shen, R.Hu, X.Fu, Y.Wen | **`ICLR27`** `review` |
+| [`s3_diffusion_search.pdf`](https://arxiv.org/pdf/2604.06260) — **A.Bilal**\*, M.A.Mohsin\*, M.Umer, A.Aali, M.U.Khanzada, M.U.Rafique, Z.He, E.Fox, D.F.Hougen | **`ICLR27`** `review` |
+| [`general_preference_rl.pdf`](https://arxiv.org/pdf/2605.18721) — M.Umer, M.A.Mohsin, **A.Bilal**, A.Chaudhry, A.Haupt, S.Koyejo, E.Fox, J.M.Cioffi | **`ICLR27`** `review` |
+| [`epistemic_uncertainty_ttd.pdf`](https://arxiv.org/pdf/2605.11328) — K.Riaz, M.A.Mohsin, **A.Bilal**, M.Umer, A.Mohsin, A.Riaz, A.Subhan, J.M.Cioffi | **`ICLR27`** `review` |
+| [`fundamental_limits_llms.pdf`](https://arxiv.org/pdf/2511.12869) — M.A.Mohsin, M.Umer, **A.Bilal**, Z.Memon, M.I.Qadir, S.Bhattacharya, H.Rizwan, A.R.Gorle, M.Z.Kazmi, A.Mohsin, A.Subhan, M.U.Rafique, Z.He, P.Mehta, J.Han, M.A.Jamshed, D.F.Hougen, J.M.Cioffi · *incl. researchers from Google DeepMind and Meta AI* | **`TMLR26`** |
+| [`kv_quantization_rag_faithfulness.pdf`](https://arxiv.org/pdf/2608.30996) — A.U.Asad\*, **A.Bilal**\*, M.Ali, M.Haseeb, D.F.Hougen | **`EMNLP26`** `wksp` |
+| [`refining_over_resampling.pdf`](https://arxiv.org/pdf/2608.05643) — **A.Bilal**, M.A.Mohsin, M.Umer, L.Trigg, A.Subhan, M.Ali, D.F.Hougen | **`EMNLP26`** `review` |
+| [`sycophancy_reward_decomp.pdf`](https://arxiv.org/pdf/2604.05279) — M.A.Mohsin\*, **A.Bilal**\*, M.Umer, E.Fox | **`COLM26`** `review` |
+| [`logic_level_table_to_text.pdf`](https://aclanthology.org/2026.conll-main.41.pdf) — L.Trigg, D.F.Hougen, **A.Bilal** | **`CONLL26`** |
+| [`itdpdm_poisson_diffusion.pdf`](https://arxiv.org/pdf/2505.05082) — S.Bhattacharya, A.R.Gorle, **A.Bilal**, C.Ding, A.K.S.Yadav, T.Weissman | **`NEURIPS25`** |
 
 </details>
 
@@ -131,21 +141,39 @@ NETWORK      : Stanford Statistics, Univ. of Glasgow, NUST-SEECS, Google DeepMin
 
 | FILE | VENUE |
 |---|:---:|
-| [`neural_gaussian_radio_fields.pdf`](https://arxiv.org/pdf/2508.11668) — M.Umer*, A.Bilal*, M.A.Mohsin* | **`KDD26`** |
-| [`channel_pred_distribution_shift.pdf`](https://arxiv.org/pdf/2509.15192) — M.A.Mohsin, A.Bilal | **`ICASSP26`** |
-| [`conditional_prior_diffusion.pdf`](https://arxiv.org/pdf/2509.15182) — A.Bilal, M.A.Mohsin | **`ICASSP26`** |
-| [`transformer_sparse_csi.pdf`](https://arxiv.org/pdf/2511.01333) — M.A.Mohsin, A.Bilal | **`ICC26`** |
-| [`continual_learning_wireless.pdf`](https://arxiv.org/pdf/2501.17879) — M.A.Mohsin, A.Bilal | **`ICML25`** `wksp` |
-| [`rag_multimodal_wireless.pdf`](https://arxiv.org/pdf/2503.07670) — M.A.Mohsin, A.Bilal | **`ICC25`** `wksp` 🏆 |
-| [`hierarchical_drl_spectrum.pdf`](https://arxiv.org/pdf/2501.09212) — M.A.Mohsin, A.Bilal | **`AAAI25`** `wksp` |
-| [`task_aware_dsc_audio.pdf`](https://arxiv.org/pdf/2501.17879) — S.Bhattacharya, A.Bilal | **`AAAI25`** `wksp` |
-| [`itdpdm_poisson_diffusion.pdf`](https://arxiv.org/pdf/2505.05082) — S.Bhattacharya, A.Bilal | **`NeurIPS25`** |
+| `agentic_continual_adaptation.pdf` — **A.Bilal**, M.A.Mohsin, M.Umer, M.A.Jamshed, A.Mohsin, J.M.Cioffi, D.F.Hougen | **`IEEE_NETWORK26`** |
+| [`neural_gaussian_radio_fields.pdf`](https://arxiv.org/pdf/2508.11668) — M.Umer\*, M.A.Mohsin\*, **A.Bilal**\*, J.M.Cioffi | **`KDD26`** |
+| [`channel_pred_distribution_shift.pdf`](https://arxiv.org/pdf/2509.15192) — M.A.Mohsin, M.Umer, **A.Bilal**, M.I.Qadir, M.A.Jamshed, D.F.Hougen, J.M.Cioffi | **`ICASSP26`** |
+| [`conditional_prior_diffusion.pdf`](https://arxiv.org/pdf/2509.15182) — M.A.Mohsin\*, **A.Bilal**\*, M.Umer, A.Aali, M.A.Jamshed, D.F.Hougen, J.M.Cioffi | **`ICASSP26`** |
+| [`transformer_sparse_csi.pdf`](https://arxiv.org/pdf/2511.01333) — M.A.Mohsin, M.Umer, **A.Bilal**, H.Rizwan, S.Bhattacharya, M.A.Jamshed, J.M.Cioffi | **`ICC26`** |
+| `canonical_mimo_mac.pdf` — M.Umer, M.A.Mohsin, **A.Bilal**, J.M.Cioffi | **`GLOBECOM26`** |
+| [`rag_multimodal_wireless.pdf`](https://arxiv.org/pdf/2503.07670) — M.A.Mohsin, **A.Bilal**, S.Bhattacharya, J.M.Cioffi | **`ICC25`** `wksp` 🏆 |
+| `continual_learning_wireless.pdf` — M.A.Mohsin, M.Umer, **A.Bilal**, M.A.Jamshed, J.M.Cioffi | **`ICML25`** `wksp` |
+| [`task_perception_aware_dsc.pdf`](https://arxiv.org/pdf/2501.17879) — S.Bhattacharya, M.A.Mohsin, **A.Bilal**, J.M.Cioffi | **`AAAI25`** `wksp` |
+| [`hierarchical_drl_spectrum.pdf`](https://arxiv.org/pdf/2501.09212) — M.A.Mohsin, H.Rizwan, M.Umer, S.Bhattacharya, **A.Bilal**, J.M.Cioffi | **`AAAI25`** `wksp` |
+
+</details>
+
+<details>
+<summary><strong>ADDITIONAL_WORK/</strong></summary><br/>
+
+| FILE | VENUE |
+|---|:---:|
+| [`agent_persona_bench.pdf`](https://arxiv.org/pdf/2610.04379v1) — J.Huang, Y.Wang, H.Shen, **A.Bilal**, et al.(46 authors) | **`ARXIV26`** |
+| [`adaptive_replay_refinement.pdf`](https://arxiv.org/pdf/2610.28294) — **A.Bilal**, M.A.Mohsin, M.Umer, A.Mohsin, S.Bilal, D.F.Hougen | **`ARXIV26`** |
+| [`meta_thinking_survey.pdf`](https://arxiv.org/pdf/2504.14520) — **A.Bilal**, M.A.Mohsin, M.Umer, M.A.K.Bangash, M.A.Jamshed | **`EAAI`** `review` |
+| [`sixg_twin.pdf`](https://arxiv.org/pdf/2509.18735) — M.A.Mohsin, M.Umer, **A.Bilal**, M.A.Jamshed, D.F.Hougen, J.M.Cioffi | **`ARXIV25`** |
+| [`llms_for_xai_survey.pdf`](https://arxiv.org/pdf/2504.00125) — **A.Bilal**, D.Ebert, B.Lin | **`ARXIV25`** |
+| `llm_xai_abstract.pdf` — **A.Bilal**, B.Lin | **`IEEE_DSAA24`** `poster` |
+| `shadow_removal_vit.pdf` — **A.Bilal**, A.Salman, K.Khurshid, D.F.Hougen | **`SPRINGER_ML`** `review` |
+| `gait_person_id.pdf` — **A.Bilal**, A.Salman, K.Khurshid | **`ACM_TAIS`** `review` |
 
 </details>
 
 ## $ honors
 
 ```
+[2026] Silver Reviewer Award — ICML 2026
 [2025] Gallogly College of Engineering Graduate Fellowship
 [2025] Best Paper Award — ICC Workshop 2025, Montreal
 [2025] Honorary Certificate — IEEE ComSoc Student Competition (Democratizing 6G)
